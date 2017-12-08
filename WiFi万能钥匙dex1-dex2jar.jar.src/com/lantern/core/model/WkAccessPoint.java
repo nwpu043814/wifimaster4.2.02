@@ -19,6 +19,10 @@ public class WkAccessPoint
   public String b;
   public int c;
   public int d;
+//      localJSONObject1.put("ssid", this.a);
+//      localJSONObject1.put("bssid", this.b);
+//      localJSONObject1.put("securityLevel", String.valueOf(this.c));
+//      localJSONObject1.put("rssi", String.valueOf(this.d));
   
   public WkAccessPoint()
   {

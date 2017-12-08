@@ -17,7 +17,7 @@ import java.util.BitSet;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
-
+//核心连接类
 public final class u
 {
   public static int a(ScanResult paramScanResult)
@@ -55,7 +55,8 @@ public final class u
       }
     }
   }
-  
+
+  //根据id获取网络配置。
   public static WifiConfiguration a(Context paramContext, int paramInt)
   {
     paramContext = ((WifiManager)paramContext.getSystemService("wifi")).getConfiguredNetworks();
@@ -76,7 +77,8 @@ public final class u
       paramContext = null;
     }
   }
-  
+
+  //根据ap bssid ssid pwd组装wificonfig.
   public static WifiConfiguration a(Context paramContext, WkAccessPoint paramWkAccessPoint, String paramString)
   {
     Object localObject = paramWkAccessPoint.a;
@@ -150,10 +152,12 @@ public final class u
             if (paramString.length() != 0) {
               if (paramString.matches("[0-9A-Fa-f]{64}"))
               {
+                //configure network WPA
                 ((WifiConfiguration)localObject).preSharedKey = paramString;
               }
               else
               {
+                //configure network WPA
                 ((WifiConfiguration)localObject).preSharedKey = ("\"" + paramString + '"');
                 continue;
                 ((WifiConfiguration)localObject).allowedKeyManagement.set(2);
@@ -170,7 +174,8 @@ public final class u
       paramContext = null;
     }
   }
-  
+
+  //根据ssid获取网络配置。
   public static WifiConfiguration a(Context paramContext, String paramString)
   {
     paramContext = ((WifiManager)paramContext.getSystemService("wifi")).getConfiguredNetworks();
@@ -191,7 +196,9 @@ public final class u
       paramContext = null;
     }
   }
-  
+
+
+  //根据ssid和网络id获取网络配置。
   public static WifiConfiguration a(Context paramContext, String paramString, int paramInt)
   {
     paramContext = ((WifiManager)paramContext.getSystemService("wifi")).getConfiguredNetworks();
@@ -237,7 +244,8 @@ public final class u
       }
     }
   }
-  
+
+  //获取wifiscanlist.
   public static ArrayList<WkAccessPoint> a(Context paramContext)
   {
     Object localObject = a((WifiManager)paramContext.getSystemService("wifi"));
@@ -261,7 +269,8 @@ public final class u
     }
     return paramContext;
   }
-  
+
+  //获取ssid相同bssid不同的网络配置
   public static ArrayList<WkAccessPoint> a(Context paramContext, WkAccessPoint paramWkAccessPoint)
   {
     Object localObject = b((WifiManager)paramContext.getSystemService("wifi"));
@@ -341,7 +350,8 @@ public final class u
       return bool;
     }
   }
-  
+
+  //更新现有网络连接的密码
   public static final boolean a(WifiConfiguration paramWifiConfiguration, String paramString)
   {
     boolean bool = true;
@@ -371,6 +381,7 @@ public final class u
       {
         bool = false;
         continue;
+        //configure network WPA
         paramWifiConfiguration.allowedKeyManagement.set(1);
         if (paramString.length() != 0)
         {

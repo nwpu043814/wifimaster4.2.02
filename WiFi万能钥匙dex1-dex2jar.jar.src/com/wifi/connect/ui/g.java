@@ -7,11 +7,13 @@ import com.wifi.connect.a.d;
 import com.wifi.connect.model.AccessPoint;
 import com.wifi.connect.widget.n.a;
 
+//wifi连接响应函数。
 final class g
   implements n.a
 {
   g(ConnectFragment paramConnectFragment) {}
-  
+
+  //paramInt =1 代表connect。
   public final void onEvent(int paramInt, AccessPoint paramAccessPoint)
   {
     switch (paramInt)

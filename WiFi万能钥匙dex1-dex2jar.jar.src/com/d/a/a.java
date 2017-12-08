@@ -10,6 +10,8 @@ import java.util.LinkedList;
 
 public final class a
 {
+  //企业带用户名和密码的wifi。
+  //wifi connect config.   EAP                 ssid             username             password
   public static WifiConfiguration a(String paramString1, String paramString2, String paramString3)
   {
     WifiConfiguration localWifiConfiguration = new WifiConfiguration();
