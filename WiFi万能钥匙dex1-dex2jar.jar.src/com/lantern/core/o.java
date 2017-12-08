@@ -201,7 +201,9 @@ public final class o
       }
     }
   }
-  
+
+
+  //PWD byte數組拆解组装逻辑，前面6个字节是header。
   public static com.lantern.core.h.a b(String paramString, byte[] paramArrayOfByte)
   {
     h.a("getResponse pid:%s", new Object[] { paramString });

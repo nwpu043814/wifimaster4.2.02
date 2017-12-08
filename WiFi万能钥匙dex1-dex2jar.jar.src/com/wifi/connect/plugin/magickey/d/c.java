@@ -21,6 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 import org.json.JSONObject;
 
+//和老版本分析的等效关键类是这个,网络
 public final class c
   extends AsyncTask<String, Integer, Integer>
 {
