@@ -1,0 +1,24 @@
+package com.lantern.settings.widget;
+
+import android.view.View;
+import android.view.View.OnClickListener;
+import com.bluefay.b.a;
+
+final class b
+  implements View.OnClickListener
+{
+  b(ProtocalPreference paramProtocalPreference) {}
+  
+  public final void onClick(View paramView)
+  {
+    if (ProtocalPreference.a(this.a) != null) {
+      ProtocalPreference.a(this.a).a(0, null, null);
+    }
+  }
+}
+
+
+/* Location:              /Users/hanlian/Downloads/WiFi万能钥匙dex1-dex2jar.jar!/com/lantern/settings/widget/b.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

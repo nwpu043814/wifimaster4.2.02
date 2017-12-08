@@ -1,0 +1,46 @@
+package com.wifipay.wallet.prod.user;
+
+import com.wifipay.common.net.entitybase.BaseResp;
+import java.io.Serializable;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+public class HeadimgResp
+  extends BaseResp
+{
+  public ResultObject resultObject;
+  
+  public void parseBody(JSONObject paramJSONObject)
+  {
+    try
+    {
+      ResultObject localResultObject = new com/wifipay/wallet/prod/user/HeadimgResp$ResultObject;
+      localResultObject.<init>();
+      this.resultObject = localResultObject;
+      paramJSONObject = paramJSONObject.getJSONObject("resultObject");
+      if (paramJSONObject.has("icon")) {
+        this.resultObject.icon = paramJSONObject.getString("icon");
+      }
+      return;
+    }
+    catch (JSONException paramJSONObject)
+    {
+      for (;;)
+      {
+        paramJSONObject.printStackTrace();
+      }
+    }
+  }
+  
+  public static class ResultObject
+    implements Serializable
+  {
+    public String icon;
+  }
+}
+
+
+/* Location:              /Users/hanlian/Downloads/WiFi万能钥匙dex1-dex2jar.jar!/com/wifipay/wallet/prod/user/HeadimgResp.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */
