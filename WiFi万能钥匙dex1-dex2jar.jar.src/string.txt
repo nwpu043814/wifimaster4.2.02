@@ -1,0 +1,1558 @@
+0x7f0a0000	push_dlg_btn_ok	Sure	确定
+0x7f0a0001	push_dlg_btn_cancel	Cancel	取消
+0x7f0a0002	push_dlg_title_download	Download	将为您下载以下内容
+0x7f0a0003	push_dlg_conent_download	Will be download %1$s for you, are you sure continue?	将为您下载%1$s，请确认是否需要下载？
+0x7f0a0004	framework_empty_str
+0x7f0a0005	framework_activity_not_found	Can not find the activity	找不到相关应用的活动
+0x7f0a0006	framework_activity_security	No permission to open the activity	没有权限访问该应用的活动
+0x7f0a0007	framework_just_now	Just now	刚刚
+0x7f0a0008	framework_yesterday	Yesterday	昨天
+0x7f0a0009	framework_upgrade_not_enough_storage	Not enough storage	手机存储不可用
+0x7f0a000a	framework_ok	OK	确定
+0x7f0a000b	framework_cancel	Cancel	取消
+0x7f0a000c	framework_loading	Loading...	加载中...
+0x7f0a000d	launcher_bind_app_install	I want to install this as well	我也装一个
+0x7f0a000e	star_widget_socre	分	分
+0x7f0a000f	star_widget_no_socre	暂未评分	暂未评分
+0x7f0a0010	config_appstore_title	Treasure Case	应用设置
+0x7f0a0011	config_appstore_title_samsung	Recommend	推荐
+0x7f0a0012	stub_name_activity	启动插件ing...
+0x7f0a0013	stub_name_provider	插件代理服务
+0x7f0a0014	stub_name_service	插件代理服务
+0x7f0a0015	service_name_plugin_manager_service	插件管理服务
+0x7f0a0016	upgrade_dialog_title	New version upgrade	新版本升级
+0x7f0a0017	upgrade_phone_card_not_exist	upgrade_not_enough_storage	手机存储卡不存在
+0x7f0a0018	launcher_lower_version_tip_title	Kindly note	温馨提示
+0x7f0a0019	launcher_lower_version_tip_content	As this mobile has a lower version of Android system, there may be some afunction while using. We have kindly provided another version of WiFi Master Key matching your mobile system.	由于您的安卓系统（%s）版本较低，可能使用起来导致部分功能缺失，为此我们提供了适合您手机版本的WiFi万能钥匙
+0x7f0a001a	launcher_lower_version_tip_download_url	http://www.wifi.com/v3/index.html	http://www.wifi.com/v3/index.html
+0x7f0a001b	launcher_verify_msg	这个包是非法包，该产品可能会侵害到您的利益，请去官方(www.wifi.com)下载	这个包是非法包，该产品可能会侵害到您的利益，请去官方(www.wifi.com)下载
+0x7f0a001c	auth_back	Back	返回
+0x7f0a001d	auth_go_login	Login	登录
+0x7f0a001e	auth_cancel	Cancel	取消
+0x7f0a001f	auth_prompt_default_title	提示	提示
+0x7f0a0020	auth_prompt_default_msg	登录状态已失效，请重新登录	登录状态已失效，请重新登录
+0x7f0a0021	auth_logining	Signing in...	正在为您登录
+0x7f0a0022	auth_failed_no_network	No network	没有网络
+0x7f0a0023	auth_login_failed	Unable to login server	无法登录服务器
+0x7f0a0024	auth_login_success	Sign in Success	登录成功
+0x7f0a0025	auth_auto_logining	Auto logining	正在自动登录
+0x7f0a0026	auth_loading_code	 Loading… 	 加载中… 
+0x7f0a0027	auth_loading_page	AuthLogin	验证登录
+0x7f0a0028	auth_login	AuthLogin	WiFi万能钥匙授权登录
+0x7f0a0029	auth_loading_failed	Network error, Login failed	网络异常，登录失败
+0x7f0a002a	browser_ssl_title	Security warning	安全提示
+0x7f0a002b	browser_ssl_msg	There are problems with the security certificate for the site.	该网站的安全证书有问题，是否继续访问？
+0x7f0a002c	browser_ssl_continue	Continue	继续
+0x7f0a002d	browser_btn_confirm	Confirm	确认
+0x7f0a002e	browser_btn_cancel	Cancel	取消
+0x7f0a002f	auth_auto_failed	auto register failed	自动登录异常，请使用验证码登录
+0x7f0a0030	auth_token_failed	login status lose efficacy	登录状态已失效
+0x7f0a0031	auth_login_quick	Quick login	快捷登录
+0x7f0a0032	auth_auto_ul_agreement	Agree to the China Mobile and Passport Terms of Service	同意中国移动和通行证联合授权登录
+0x7f0a0033	auth_auto_ul_agreement_detail	Verified mobile phone users will experience the full range of services offered by the Wi-Fi Master Key, including free hotspots for operators, user interaction, and a variety of official lucky draws. Shortcuts may send free text messages.	已登录用户，将体验到WiFi万能钥匙为您提供的更加全面的服务，包括运营商热点免费畅连、用户互动以及官方组织的各类运营抽奖活动等。快捷登录可能会发送免费短信。
+0x7f0a0034	auth_failed_network_exception		网络异常，无法连接服务器
+0x7f0a0035	app_name	WiFi Master Key	WiFi万能钥匙
+0x7f0a0036	aps_login	登录
+0x7f0a0037	aps_login_hint	请先登录才能体验更多服务号相关服务
+0x7f0a0038	aps_apslist_title	服务号
+0x7f0a0039	aps_apslist_menu	添加新关注
+0x7f0a003a	aps_token_expire_hint	账号身份已过期，请重新登录
+0x7f0a003b	aps_send	发送
+0x7f0a003c	aps_keyboard_camera	拍摄照片
+0x7f0a003d	aps_keyboard_photo	选择图片
+0x7f0a003e	aps_download_hint	查看大图
+0x7f0a003f	aps_progress_hint	已下载 %d%%
+0x7f0a0040	aps_save	保存
+0x7f0a0041	aps_retry	重新发送
+0x7f0a0042	aps_img_err	图片解析失败
+0x7f0a0043	aps_delete	删除
+0x7f0a0044	aps_reco_hint	您还未关注任何服务号
+0x7f0a0045	aps_reco_reco	推荐服务号
+0x7f0a0046	aps_reco_refresh	换一批
+0x7f0a0047	aps_reco_fail	刷新失败
+0x7f0a0048	aps_reco_succ	刷新成功
+0x7f0a0049	aps_follow	关注
+0x7f0a004a	aps_follow_hint	请先关注才能体验更多服务号相关服务
+0x7f0a004b	aps_stat_follow	已关注
+0x7f0a004c	aps_stat_unfollow	关注
+0x7f0a004d	aps_profile_follow	关注服务号
+0x7f0a004e	aps_follow_fail	关注失败: %s
+0x7f0a004f	aps_follow_fail2	关注失败
+0x7f0a0050	aps_follow_success	关注成功
+0x7f0a0051	aps_follow_count	关注人数: %d人
+0x7f0a0052	aps_following	正在关注...
+0x7f0a0053	aps_unfollowing	取消关注中...
+0x7f0a0054	aps_follow_undo	不再关注
+0x7f0a0055	aps_follow_desc	不再关注该服务号后将无法再收到其下发的消息
+0x7f0a0056	aps_unfollow_success	取消关注成功
+0x7f0a0057	aps_unfollow_fail	取消关注失败
+0x7f0a0058	aps_black	抱歉，您已经被服务号拉黑
+0x7f0a0059	aps_loading	正在加载
+0x7f0a005a	aps_complain	问题举报
+0x7f0a005b	aps_complain_title	举报服务号
+0x7f0a005c	aps_complain_type	举报类型
+0x7f0a005d	aps_complain_w_type	没有选择举报类型
+0x7f0a005e	aps_complain_w_content	没有填写举报内容
+0x7f0a005f	aps_complain_i_success	提交成功
+0x7f0a0060	aps_complain_w_fail	出错了,请重试
+0x7f0a0061	aps_complain_hint	详细描述能使您的问题得到更好的反馈
+0x7f0a0062	aps_cancel	取消
+0x7f0a0063	aps_submit	提交
+0x7f0a0064	aps_ok	确认
+0x7f0a0065	aps_setting_push	接收推送
+0x7f0a0066	aps_setting_recv	接收留言
+0x7f0a0067	aps_profile_goto_home	进入服务号
+0x7f0a0068	aps_violation	此服务号违规无法查看
+0x7f0a0069	aps_violation_	经用户投诉发现此公众号涉嫌违规
+0x7f0a006a	aps_d_start	开始下载
+0x7f0a006b	aps_d_cancel	取消下载
+0x7f0a006c	aps_d_finish	下载完成
+0x7f0a006d	aps_d_fail	大图下载失败
+0x7f0a006e	aps_save_ok	保存成功
+0x7f0a006f	aps_save_fail	保存失败
+0x7f0a0070	aps_network_ex	网络异常，点击重新加载试试
+0x7f0a0071	aps_network_retry	重新加载
+0x7f0a0072	aps_copy	复制
+0x7f0a0073	aps_copy_hint	已经复制到剪贴板
+0x7f0a0074	aps_picker_img_err	图片读取错误
+0x7f0a0075	aps_no_rating	暂无评分
+0x7f0a0076	aps_search_text	搜索
+0x7f0a0077	aps_search_empty	没有您想找的服务号
+0x7f0a0078	aps_search_retry	网络失败,点击重试
+0x7f0a0079	aps_search_hint	请输入服务号的名称
+0x7f0a007a	aps_loading_more	正在努力加载
+0x7f0a007b	aps_category_title	添加服务号
+0x7f0a007c	aps_category_load_more	数据加载中...
+0x7f0a007d	aps_service_recommend	推荐
+0x7f0a007e	aps_service_attention	已关注
+0x7f0a007f	aps_service_deleted	关注
+0x7f0a0080	aps_title_details	详细信息
+0x7f0a0081	aps_bottom_dialog_clean	清空内容
+0x7f0a0082	aps_bottom_dialog_complain	投诉
+0x7f0a0083	aps_bottom_dialog_unfollow	不再关注
+0x7f0a0084	aps_profile_desc	功能介绍
+0x7f0a0085	aps_profile_company	账号主体
+0x7f0a0086	aps_profile_phone	客服电话
+0x7f0a0087	aps_scope_business	经营范围
+0x7f0a0088	aps_placed_top	置顶服务号
+0x7f0a0089	aps_history_msgs	查看历史消息
+0x7f0a008a	aps_history_clean_success	清除成功
+0x7f0a008b	aps_msg_push_closed	您已屏蔽了该服务号消息，可
+0x7f0a008c	aps_msg_push_open	开启接收
+0x7f0a008d	aps_dialog_title	提示
+0x7f0a008e	aps_dialog_msg_push	接收该服务号信息
+0x7f0a008f	aps_dialog_msg_clean	将删除该服务号所有的历史内容
+0x7f0a0090	aps_dialog_msg_follow	不再关注该服务号后将无法再收到其下发的消息
+0x7f0a0091	aps_follow_entering	正在进入...
+0x7f0a0092	aps_listitem_view_content	查看全文
+0x7f0a0093	aps_listitem_view_detail	详情
+0x7f0a0094	aps_network_failed	网络异常
+0x7f0a0095	settings_photo_set_avatar	Set Avatar	设置头像
+0x7f0a0096	settings_photo_choose_photo	Photo Picker	选择图片
+0x7f0a0097	settings_photo_use_crop	OK	确定
+0x7f0a0098	settings_photo_photos_num	%1$d photos	%1$d张
+0x7f0a0099	settings_photo_msg_maxi_capacity	Maximum photo selection	已达到照片选择上限
+0x7f0a009a	settings_photo_all_photo	All Photo	所有图片
+0x7f0a009b	settings_photo_no_sdcard	No SD card!	没有检测到SD卡
+0x7f0a009c	settings_photo_commit_num	Confirm(%1$d/%2$d)	确定(%1$d/%2$d)
+0x7f0a009d	settings_photo_loading_photos	Loading photos…	正在加载图库…
+0x7f0a009e	settings_photo_take_photo	Take Photo	拍摄照片
+0x7f0a009f	mailbox_title	消息
+0x7f0a00a0	mailbox_names	%1$s 等 %2$s 人
+0x7f0a00a1	mailbox_loading	正在加载中…
+0x7f0a00a2	mailbox_message_empty	还没有消息哦~
+0x7f0a00a3	mailbox_unread_title	温馨提示
+0x7f0a00a4	mailbox_unread_msg	将全部信息标记为已读状态？
+0x7f0a00a5	mailbox_unread_btn	标记已读
+0x7f0a00a6	mailbox_today	今天 
+0x7f0a00a7	mailbox_yesterday	昨天 
+0x7f0a00a8	mailbox_before_yesterday	前天 
+0x7f0a00a9	mailbox_morning	凌晨 
+0x7f0a00aa	mailbox_noon	上午 
+0x7f0a00ab	mailbox_afternoon	下午 
+0x7f0a00ac	mailbox_date	MM月dd日 
+0x7f0a00ad	mailbox_time	HH:mm
+0x7f0a00ae	mailbox_need_update	请下载新版
+0x7f0a00af	tips_autoconnect_success	Connected	连接成功
+0x7f0a00b0	tips_autoconnect_failed	Connection failed.	连接失败
+0x7f0a00b1	dialog_autoconnect_dlg_title	Connecting	正在连接
+0x7f0a00b2	tips_autoconnect_dialog_title_weaksignal_tip	Weak signal, may not be able to connect .	信号较弱，可能连接不成功
+0x7f0a00b3	tips_autoconnect_init_network	Initializing	初始化网络环境
+0x7f0a00b4	tips_autoconnect_intit_newwork_success	Initialised	初始化完成
+0x7f0a00b5	tips_autoconnect_try_connect	Attempting connecting	尝试建立网络连接
+0x7f0a00b6	tips_autoconnect_try_connect_by_lianmeng	Attempting connect the alliance wifi	尝试连接联盟合作热点
+0x7f0a00b7	tips_autoconnect_dialog_connect_with_wifimaster	Connecting with WiFi Master Key…	正在钥匙连接…
+0x7f0a00b8	pullup_to_load	上拉加载更多
+0x7f0a00b9	release_to_load	释放立即加载
+0x7f0a00ba	loading	正在加载…
+0x7f0a00bb	fav_title	收藏
+0x7f0a00bc	det_tags	轻触添加标签
+0x7f0a00bd	tag_edittext_hint	添加标签
+0x7f0a00be	tag_edit_title	编辑标签
+0x7f0a00bf	tag_edit_item	完成
+0x7f0a00c0	fav_search	搜索
+0x7f0a00c1	detail_title	详情
+0x7f0a00c2	load_complete	数据加载完成
+0x7f0a00c3	chat_notopen	聊天室功能暂未开放
+0x7f0a00c4	search_condition	请输入搜索内容
+0x7f0a00c5	search_exit	搜索内容已存在
+0x7f0a00c6	save_success	保存成功
+0x7f0a00c7	sync_datas	正在加载数据
+0x7f0a00c8	fav_empty	还没有收藏哦~
+0x7f0a00c9	search_empty	无搜索结果
+0x7f0a00ca	network_exception	网络异常
+0x7f0a00cb	wifi_master_key	WiFi Master Key	WiFi万能钥匙
+0x7f0a00cc	browser_inputhint	Enter a website URL	输入网址
+0x7f0a00cd	browser_gobtn	Sign in	进入
+0x7f0a00ce	browser_cancelbtn	Cancel	取消
+0x7f0a00cf	browser_goback	Back	后退
+0x7f0a00d0	browser_goforward	Continue	前进
+0x7f0a00d1	browser_refresh	Refresh	刷新
+0x7f0a00d2	browser_share	Share	分享
+0x7f0a00d3	browser_close	Close	关闭
+0x7f0a00d4	browser_btn_setting	Settings	设置
+0x7f0a00d5	browser_pop_open	Open	打开
+0x7f0a00d6	browser_pop_open_new	Open in new tab	新窗口打开
+0x7f0a00d7	browser_pop_open_back	Open in new background tab	后台打开
+0x7f0a00d8	browser_pop_share	Share link	分享
+0x7f0a00d9	browser_pop_open_link	Open link	打开链接
+0x7f0a00da	browser_pop_open_img	Open image	打开图片
+0x7f0a00db	browser_pop_copy_link	Copy link URL	复制链接
+0x7f0a00dc	browser_pop_save	Save image	保存到手机
+0x7f0a00dd	browser_pop_favorite	Favorite	收藏
+0x7f0a00de	browser_loaderror	loaderror.html	loaderror.html
+0x7f0a00df	browser_loaderror_explore	loaderror_explore.html	loaderror_explore.html
+0x7f0a00e0	browser_btn_back	Back	返回
+0x7f0a00e1	browser_btn_friend	Share with WeChat friends	发送给微信好友
+0x7f0a00e2	browser_btn_timeline	Share to WeChat Moments	分享到朋友圈
+0x7f0a00e3	browser_btn_favorite	Save	收藏
+0x7f0a00e4	browser_btn_refresh	Refresh	刷新
+0x7f0a00e5	browser_btn_report	Report	举报
+0x7f0a00e6	browser_btn_copylink	Copy link URL	复制链接
+0x7f0a00e7	browser_btn_download	Download Management	下载管理
+0x7f0a00e8	browser_download_no_sdcard	USB storage is required to download%s。	需要有 SD 卡才能下载%s。
+0x7f0a00e9	browser_download_sdcard_busy	USB storage is busy. Select turn off USB storage in the notification bar to allow downloads.	SD 卡正忙。要允许下载，请在通知中触摸“关闭 USB 存储设备”。
+0x7f0a00ea	browser_download_success	Download success (Album -> WiFiMasterPic)	图片已保存 (手机相册 -> WiFiMasterPic)
+0x7f0a00eb	browser_download_fail	Download failed	图片保存失败
+0x7f0a00ec	browser_tab_title	Discover	连尚·发现
+0x7f0a00ed	browser_tip_copylink	Website URL has been copied to the clipboard	网页链接已复制到剪贴板
+0x7f0a00ee	browser_sms_title	Message Prompt	发送短信提示
+0x7f0a00ef	browser_sms_tip1	Send message to	将为您向
+0x7f0a00f0	browser_sms_tip2		号码发送短信
+0x7f0a00f1	browser_btn_done	Done	完成
+0x7f0a00f2	browser_weixin_tips	WeChat not detected or not support, please check and try again.	微信未安装或不支持，请确认后重试
+0x7f0a00f3	browser_fav_success	Saved	收藏成功
+0x7f0a00f4	browser_share_success	Shared	分享成功
+0x7f0a00f5	browser_share_msg	Generating shared content	分享内容生成中
+0x7f0a00f6	browser_fav_msg	Generating saved content	收藏内容生成中
+0x7f0a00f7	browser_loading_failed	Loading failed, please try again later.	页面未加载完成，请稍后重试
+0x7f0a00f8	browser_download_start	Start to download	开始下载
+0x7f0a00f9	browser_load_error_text1	The webpage might be hijacked by aliens	网页可能被外星人劫持
+0x7f0a00fa	browser_load_error_text2	Tap to refresh	请轻点屏幕刷新
+0x7f0a00fb	browser_download_file_no_exist	安装包不存在，请重新下载	安装包不存在，请重新下载
+0x7f0a00fc	browser_download_app_no_install	该应用尚未安装，请下载安装后重试	该应用尚未安装，请下载安装后重试
+0x7f0a00fd	browser_upload	Upload	上传
+0x7f0a00fe	browser_loading_title	Loading...	加载中...
+0x7f0a00ff	browser_lower_version_tip_title	Reminder	温馨提示
+0x7f0a0100	browser_lower_version_tip_content	Your Android system (%s) is an old version, some features may be missing. We recommend you a new version of WiFi Master Key for your phone.	由于您的安卓系统（%s）版本较低，可能使用起来导致部分功能缺失，为此我们提供了适合您手机版本的WiFi万能钥匙
+0x7f0a0101	browser_lower_version_tip_download_url	http://www.wifi.com	http://www.wifi.com
+0x7f0a0102	browser_load_error_notice	sorry, invalid network.	网络异常，点击重新加载试试~
+0x7f0a0103	browser_load_error_refresh	Refresh	重新加载
+0x7f0a0104	browser_btn_appstore	AppStore	应用设置
+0x7f0a0105	browser_btn_recommend	Recommend	推荐
+0x7f0a0106	browser_download_fail_app	Installation failed. Please try again later.	下载失败，请稍后重试
+0x7f0a0107	browser_loading_error	Load Failed	加载失败
+0x7f0a0108	comment_header	热门评论	热门评论
+0x7f0a0109	comment_user_name	钥匙用户	钥匙用户
+0x7f0a010a	comment_submit	评论	评论
+0x7f0a010b	comment_no_comment	暂无评论，点击抢沙发	暂无评论，点击抢沙发
+0x7f0a010c	comment_network_error	网络异常，请点击重试	网络异常，请点击重试
+0x7f0a010d	comment_input	写评论…	写评论…
+0x7f0a010e	comment_input_hint	优质评论将会被优先展示	优质评论将会被优先展示
+0x7f0a010f	comment_tip_load_more	正在努力加载中…	正在努力加载中…
+0x7f0a0110	comment_tip_load_more_failed	请求失败，请点击重试	请求失败，请点击重试
+0x7f0a0111	comment_submit_network	评论失败，请检查网络连接是否异常	评论失败，请检查网络连接是否异常
+0x7f0a0112	comment_share_title	分享到	分享到
+0x7f0a0113	comment_share_cancle	取消	取消
+0x7f0a0114	comment_error_msg1	昵称非法，请在“我的”界面修改昵称	昵称非法，请在“我的”界面修改昵称
+0x7f0a0115	comment_error_msg5	评论最多只允许%s字，请删减内容	评论最多只允许%s字，请删减内容
+0x7f0a0116	comment_send_success	发送已提交	评论已提交
+0x7f0a0117	comment_send_failed	发送失败	发送失败
+0x7f0a0118	comment_dialog_message	请先登录再参与讨论	请先登录再参与讨论
+0x7f0a0119	comment_dialog_cancel	取消	取消
+0x7f0a011a	comment_dialog_login	去登录	去登录
+0x7f0a011b	comment_dialog_toast	草稿已保存，登录后自动发送	草稿已保存，登录后自动发送
+0x7f0a011c	browser_download_dlg_title	注意！	注意！
+0x7f0a011d	browser_download_dlg_msg	您是否要进行下载操作？	您是否要进行下载操作？
+0x7f0a011e	webox_authz_title	Web Authentication	网页认证
+0x7f0a011f	webox_authz_notification	This page requires web authentication. WiFi Master Key can auto complete the information and help you get connected for free. This process needs your permission to access your SMS.	该热点需要网页认证，WIFI万能钥匙能够为您自动完善各类信息条目，从而实现帮您免费上网。这个过程可能需要获取您的短信权限
+0x7f0a0120	webox_authz_confirm_again	Don't show this message again	下次不再提醒
+0x7f0a0121	webox_authz_start_tip	Authenticating Smart Web...	正在为您智能网页认证...
+0x7f0a0122	webox_authz_stop_tip	Smart Web authentication not turned on	未开启智能网页认证功能
+0x7f0a0123	webox_authz_start	Turn on	开启
+0x7f0a0124	webox_authz_confirm	OK	确定
+0x7f0a0125	webox_authz_cancle	Cancel	取消
+0x7f0a0126	webox_authz_check_phone_num	Checking phone number...	正在查询手机号...
+0x7f0a0127	webox_authz_get_code	Getting verification code...	正在获取认证码...
+0x7f0a0128	webox_authz_login	Authenticating...	认证登录...
+0x7f0a0129	webox_authz_error	Auto authenticating failed. Please try manually.	自动认证失败,请手动认证
+0x7f0a012a	webox_authz_copyright	This content is provided by the WiFi hotspots owner.
+WiFi Master Key is not responsible and legally liable for their content.	本页内容由WiFi热点主人提供，
+WiFi万能钥匙对其内容概不负责，亦不承担任何法律责任。
+0x7f0a012b	browser_downloading	downloading	正在下载中
+0x7f0a012c	browser_download_cancel	Cancel	取消
+0x7f0a012d	browser_download_confirm	Confirm	确定
+0x7f0a012e	browser_download_not_connect_network	网络异常，无法下载	网络异常，无法下载
+0x7f0a012f	browser_download_mobile_network	You are using a cellular network,this action may incur data charges.Are you sure you want to save?	您正在使用非WiFi网络，继续使用会产生流量费用（运营商收取），是否继续下载？
+0x7f0a0130	browser_download_tip_title	Save the file?	是否下载该文件？
+0x7f0a0131	browser_download_tip_size	Size:	大小：
+0x7f0a0132	browser_download_url_invalid	download url is invalid, download failed	下载地址非法，下载失败
+0x7f0a0133	browser_network_error	网络异常	网络异常
+0x7f0a0134	browser_login_error	参数异常，请检查参数是否非空	参数异常，请检查参数是否非空
+0x7f0a0135	browser_relate_news	相关阅读	相关阅读
+0x7f0a0136	comment_click_to_open_up	点击展开隐藏楼层	点击展开隐藏楼层
+0x7f0a0137	comment_click_to_show_full_comment	显示全部	显示全部
+0x7f0a0138	comment_replyme	回复我的	回复我的
+0x7f0a0139	comment_hot	热门评论	热门评论
+0x7f0a013a	comment_new	最新评论	最新评论
+0x7f0a013b	comment_text	评论	评论
+0x7f0a013c	comment_copy	复制	复制
+0x7f0a013d	comment_reply	回复	回复
+0x7f0a013e	comment_reply_to	回复%s：	回复%s：
+0x7f0a013f	comment_view_more	查看更多评论	查看更多评论
+0x7f0a0140	comment_loading	评论加载中…	评论加载中…
+0x7f0a0141	comment_copy_success	复制成功	复制成功
+0x7f0a0142	comment_loadmore_ing	正在加载更多评论	正在加载更多评论
+0x7f0a0143	comment_load_failed	评论加载失败，点击重试	评论加载失败，点击重试
+0x7f0a0144	comment_load_empty	暂无评论，抢沙发	暂无评论，抢沙发
+0x7f0a0145	comment_load_ing	评论加载中…	评论加载中…
+0x7f0a0146	comment_load_nomore	已显示全部评论	已显示全部评论
+0x7f0a0147	comment_already_input	已输入%d字	已输入%d字
+0x7f0a0148	comment_up_count_str_1	%s赞	%s赞
+0x7f0a0149	comment_up_count_str_2	%.1f万赞	%.1f万赞
+0x7f0a014a	comment_time_1	刚刚	刚刚
+0x7f0a014b	comment_time_2	%s分钟前	%s分钟前
+0x7f0a014c	comment_time_3	%s小时前	%s小时前
+0x7f0a014d	comment_guide_set_avatar	换个头像，评论更有面子~	换个头像，评论更有面子~
+0x7f0a014e	comment_guide_input_nickname	发表评论需要有一个响当当的名字！	发表评论需要有一个响当当的名字！
+0x7f0a014f	comment_guide_reset_nickname	重新设置昵称	重新设置昵称
+0x7f0a0150	comment_guide_random_nickname	Random	帮我选下
+0x7f0a0151	comment_guide_next_step	Next	下一步
+0x7f0a0152	comment_guide_skip_step	Skip	跳过
+0x7f0a0153	comment_guide_upload_avatar	Upload	上传头像
+0x7f0a0154	comment_guide_continue_submit_comment	Continue	继续提交评论
+0x7f0a0155	comment_guide_input_nickname_hint	请填写您的昵称	请填写您的昵称
+0x7f0a0156	comment_guide_upload_success	Upload Success	上传成功
+0x7f0a0157	comment_guide_upload_failed	Upload Failed	上传失败
+0x7f0a0158	comment_guide_empty_nickname_tip	请填写昵称	请填写昵称
+0x7f0a0159	comment_guide_update_nickname_success	Update NickName Success	修改昵称成功
+0x7f0a015a	comment_guide_update_nickname_failed	Update NickName Failed	修改昵称失败
+0x7f0a015b	comment_receive_replyme	有%d条与我相关的回复	有%d条与我相关的回复
+0x7f0a015c	search_input_hint	Input keyword	请输入关键词
+0x7f0a015d	search_start	Search	搜索
+0x7f0a015e	search_hint	Search Favorite News	搜索感兴趣的新闻
+0x7f0a015f	search_loading	Loading …	正在努力加载中…
+0x7f0a0160	search_clear_all	Clear history	清除历史记录
+0x7f0a0161	search_dlg_title	Tip	提示
+0x7f0a0162	search_dlg_msg	Is clear history	确定清除历史记录
+0x7f0a0163	search_dlg_cancel	Cancel	取消
+0x7f0a0164	search_dlg_confirm	Confirm	确认
+0x7f0a0165	search_hotword_header	Hot Words	大家都在搜
+0x7f0a0166	search_history_header	Search History	搜索历史
+0x7f0a0167	browser_favorite_url	WiFi Master Key News	WiFi万能钥匙新闻
+0x7f0a0168	friends_actionbar_title	Friends	朋友
+0x7f0a0169	launcher_tab_friends	Friends	朋友
+0x7f0a016a	feed_tab_title	Discover	连尚·发现
+0x7f0a016b	feed_load_error_notice	Sorry, Network Error.	抱歉,网络出现错误了
+0x7f0a016c	feed_load_error_refresh	Reload	重新加载
+0x7f0a016d	feed_tip_nonews	No more news update	暂时没有新内容
+0x7f0a016e	feed_tip_update	%d news recommended	连尚推荐引擎有%d条更新
+0x7f0a016f	feed_tip_failed	Network Error. Please check network settings.	网络异常，请检查网络设置
+0x7f0a0170	feed_tip_check	news updated, tap to refresh	有新内容推荐，点击刷新
+0x7f0a0171	feed_tip_last	%s viewed	%s看到这里
+0x7f0a0172	feed_tip_refresh	tap to refresh	点击刷新
+0x7f0a0173	feed_tip_load_more	Loading …	正在努力加载中…
+0x7f0a0174	feed_list_load_more	Recommending	推荐中
+0x7f0a0175	feed_tip_load_more_failed	Request failed. Please tap to retry.	请求失败，请点击重试
+0x7f0a0176	feed_tip_24hours	These are news 24 hours ago. Please tap to refresh.	以下为24小时前的文章，点击更新资讯
+0x7f0a0177	feed_menu_appstore	Discover	应用设置
+0x7f0a0178	feed_menu_recommend	Recommend	推荐
+0x7f0a0179	feed_tag_read	Read	阅读
+0x7f0a017a	feed_tag_comment	Comment	评论
+0x7f0a017b	feed_downloading	Downloading	正在下载中
+0x7f0a017c	feed_time_1	Just	刚刚
+0x7f0a017d	feed_time_2	mins ago	分钟前
+0x7f0a017e	feed_time_3	hours ago	小时前
+0x7f0a017f	feed_time_4	days ago	天前
+0x7f0a0180	feed_time_5	years ago	年前
+0x7f0a0181	feed_download_start	start download	开始下载
+0x7f0a0182	feed_download	download	立即下载
+0x7f0a0183	feed_download_pause	Pause	暂停
+0x7f0a0184	feed_download_resume	Resume	继续
+0x7f0a0185	feed_download_failed	download failed	下载失败
+0x7f0a0186	feed_download_install	install	立即安装
+0x7f0a0187	feed_download_file_no_exist	not exist,please try again	安装包不存在，请重新下载
+0x7f0a0188	feed_pop_load	Loading …	内容加载中…
+0x7f0a0189	feed_video_play_failed1	video play failed	视频加载失败
+0x7f0a018a	feed_video_play_failed2	video play failed	点击重试
+0x7f0a018b	feed_video_play_failed3	video play failed	网络不给力
+0x7f0a018c	feed_video_play_title	Tip	提示
+0x7f0a018d	feed_video_play_msg	您正在使用移动网络，确认播放将消耗流量	您正在使用移动网络，确认播放将消耗流量
+0x7f0a018e	feed_video_play_continue	continue	确认播放
+0x7f0a018f	feed_video_play_cancel	cancel	停止播放
+0x7f0a0190	feed_btn_continue	continue
+0x7f0a0191	feed_btn_ok	Confirm	确认
+0x7f0a0192	feed_btn_cancel	Cancel	取消
+0x7f0a0193	feed_download_dlg_title	Tip	提示
+0x7f0a0194	feed_download_dlg_msg	Download this app now?	是否立即开始下载应用？
+0x7f0a0195	feed_download_dlg_msg_pause	Pause the download?	应用下载中，是否暂停？
+0x7f0a0196	feed_download_dlg_msg_resume	Continue to download?	是否继续下载？
+0x7f0a0197	feed_download_dlg_msg_install	Download Complete! Install now?	应用已下载完成，是否立即安装？
+0x7f0a0198	feed_ad_tel_msg	call now?	是否立即拨打电话？
+0x7f0a0199	feed_ad_tel_ok	Call	拨打
+0x7f0a019a	feed_search	Search	搜索
+0x7f0a019b	feed_dislike_tip	选择理由，精准屏蔽	可选理由，精准屏蔽
+0x7f0a019c	feed_dislike_default	不感兴趣	不感兴趣
+0x7f0a019d	feed_dislike_tip_start	已选	已选
+0x7f0a019e	feed_dislike_tip_end	理由	理由
+0x7f0a019f	feed_tip_dislike	将减少类似推荐内容	将减少类似推荐内容
+0x7f0a01a0	feed_service_follow	关注	关注
+0x7f0a01a1	feed_service_followed	去看看	去看看
+0x7f0a01a2	feed_service_grade_tip	（热点评分）	（热点评分）
+0x7f0a01a3	wifipay_common_next	下一步
+0x7f0a01a4	wifipay_common_agree	同意
+0x7f0a01a5	wifipay_common_cancel	取消
+0x7f0a01a6	wifipay_common_confirm	确认
+0x7f0a01a7	wifipay_common_repeat	重试
+0x7f0a01a8	wifipay_common_loading	加载中
+0x7f0a01a9	wifipay_alert_btn_i_know	知道了
+0x7f0a01aa	wifipay_retrieve_pp_note	请重新绑定银行卡以找回密码
+0x7f0a01ab	wifipay_unbind_card_note	请输入您连尚钱包的支付密码，以验证身份，解绑后可重新绑定
+0x7f0a01ac	wifipay_retrieve_pp_new_card_note	绑定新卡找回
+0x7f0a01ad	wifipay_set_pp_note	请设置连尚钱包支付密码
+0x7f0a01ae	wifipay_set_pp_note_repeat	请再次输入连尚钱包支付密码
+0x7f0a01af	wifipay_found_pwd	忘记密码
+0x7f0a01b0	wifipay_found_pwd_title	设置新支付密码
+0x7f0a01b1	wifipay_yourself_card_number	请输入持卡人本人的银行卡号
+0x7f0a01b2	wifipay_card_holder	持卡人
+0x7f0a01b3	wifipay_hint_card_holder	请输入持卡人姓名
+0x7f0a01b4	wifipay_card_number	卡号
+0x7f0a01b5	wifipay_hint_card_number	**%1$s(请输入完整卡号)
+0x7f0a01b6	wifipay_hint_card_realname	%1$s(请输入完整姓名)
+0x7f0a01b7	wifipay_hint_bank_card_number	请输入银行卡号
+0x7f0a01b8	wifipay_card_info	请填写银行卡信息，后续只能添加该持卡人的银行卡
+0x7f0a01b9	wifipay_expiry_date	有效期
+0x7f0a01ba	wifipay_hint_expiry_date	卡正面月年
+0x7f0a01bb	wifipay_security_code	安全码
+0x7f0a01bc	wifipay_hint_security_code	卡背后签名栏上后3位
+0x7f0a01bd	wifipay_reserve_info	请填写银行预留信息
+0x7f0a01be	wifipay_full_name	姓名
+0x7f0a01bf	wifipay_id_card	身份证
+0x7f0a01c0	wifipay_credentials_type	证件类型
+0x7f0a01c1	wifipay_credentials_number	证件号
+0x7f0a01c2	wifipay_hint_credentials_number	请输入证件号
+0x7f0a01c3	wifipay_phone_number	手机号
+0x7f0a01c4	wifipay_hint_reserve_phone_number	请输入银行预留手机号
+0x7f0a01c5	wifipay_pay_prompt	《用户协议》
+0x7f0a01c6	wifipay_verify_code	验证码
+0x7f0a01c7	wifipay_hint_verify_code	短信验证码
+0x7f0a01c8	wifipay_verify_code_get	重新获取
+0x7f0a01c9	wifipay_verify_code_gain	获取验证码
+0x7f0a01ca	wifipay_verify_sms	验证手机
+0x7f0a01cb	wifipay_verify_code_get_again	获取验证码([count])
+0x7f0a01cc	wifipay_input_sms_code_by_account	请输入账户[account]的短信验证码
+0x7f0a01cd	wifipay_bindcard_new_note	请绑定持卡人本人的银行卡
+0x7f0a01ce	wifipay_bindcard_un_support	信用卡不支持此次交易!
+0x7f0a01cf	wifipay_mobile_invalid_patten	手机号格式不正确，必须是13/14/15/17/18开头的11位数字
+0x7f0a01d0	wifipay_feedback_alert_text	请输入正确的11位手机号
+0x7f0a01d1	wifipay_personal_idcard_info	请填写正确的身份证信息
+0x7f0a01d2	wifipay_add_new_card	添加银行卡
+0x7f0a01d3	wifipay_unbind_card_title	解绑银行卡
+0x7f0a01d4	wifipay_set_pp_title	设置支付密码
+0x7f0a01d5	wifipay_set_pp_verify	确认支付密码
+0x7f0a01d6	wifipay_forget_pay_pwd	忘记密码
+0x7f0a01d7	wifipay_forget_pwd	忘记密码
+0x7f0a01d8	wifipay_cashier_desk_title	请输入支付密码
+0x7f0a01d9	wifipay_pwd_crypto_error	网络繁忙，请重新输入!
+0x7f0a01da	wifipay_my_cards	更换支付方式
+0x7f0a01db	wifipay_bindcard_result_fail	银行卡信息验证失败
+0x7f0a01dc	wifipay_bindcard_result_success	添加银行卡成功
+0x7f0a01dd	wifipay_bindcard_result_success_note	您尾号[number]的[name]已经和连尚钱包绑定，可以通过连尚钱包手机支付密码（无需银行取款密码）完成交易。若不再使用，您随时可以去解绑。
+0x7f0a01de	wifipay_contact_customer_service	请联系客服400-720-8888
+0x7f0a01df	wifipay_retrieve_pp_verify_title	填写银行卡信息
+0x7f0a01e0	wifipay_reset_pp_note	请设置新的支付密码
+0x7f0a01e1	wifipay_reset_pp_note_repeat	请再次输入支付密码
+0x7f0a01e2	wifipay_pp_note_repeat	请再次填写以确认
+0x7f0a01e3	wifipay_verify_pp_note	请输入支付密码，以验证身份
+0x7f0a01e4	wifipay_alert_cancel_set_pp	确认取消设置支付密码？确认后，您可以在【设置】->【忘记支付密码】中重新设置。
+0x7f0a01e5	wifipay_alert_text_set_pay_pwd	您尚未设置手机支付密码，请点击下方按钮立即设置
+0x7f0a01e6	wifipay_alert_btn_set_pay_pwd	设置手机支付密码
+0x7f0a01e7	wifipay_modify_old_pp_note	请输入当前账户的支付密码
+0x7f0a01e8	wifipay_modify_new_pp_note	请设置连尚支付密码，建议勿与银行卡取款密码相同
+0x7f0a01e9	wifipay_modify_new_pp_note_suggest	建议勿与银行卡取款密码相同
+0x7f0a01ea	wifipay_modify_success	修改成功
+0x7f0a01eb	wifipay_modify_error	两次输入密码不一致，请重新输入
+0x7f0a01ec	wifipay_pay_success	支付成功
+0x7f0a01ed	wifipay_pay_paying	付款中...
+0x7f0a01ee	wifipay_pay_amount	付款金额
+0x7f0a01ef	wifipay_pay_method	付款方式
+0x7f0a01f0	wifipay_deal_time	交易时间
+0x7f0a01f1	wifipay_deal_number	交易单号
+0x7f0a01f2	wifipay_merchant_name	商户名称
+0x7f0a01f3	wifipay_merchant_order	商户订单号
+0x7f0a01f4	wifipay_pay_title	付款详情
+0x7f0a01f5	wifipay_new_bank_card_pay	添加新卡支付
+0x7f0a01f6	wifipay_new_bank_card_deposit	添加新卡充值
+0x7f0a01f7	wifipay_new_bank_card_transfer	添加新卡转账
+0x7f0a01f8	wifipay_new_bank_card_withdraw	添加新卡提现
+0x7f0a01f9	wifipay_credit_card	信用卡
+0x7f0a01fa	wifipay_debit_card	储蓄卡
+0x7f0a01fb	wifipay_pay_with_balance	零钱
+0x7f0a01fc	wifipay_wallet_name	连尚钱包
+0x7f0a01fd	wifipay_pay_product_amount	待支付
+0x7f0a01fe	wifipay_pay_product_order	订单
+0x7f0a01ff	wifipay_pay_product_favourable	优惠¥[favourable]
+0x7f0a0200	wifipay_pay_favourable	优惠
+0x7f0a0201	wifipay_payee_not_pay	支付处理中，请勿重复操作
+0x7f0a0202	wifipay_payee_fail	支付失败
+0x7f0a0203	wifipay_payee_fail_note	支付失败,请重新支付
+0x7f0a0204	wifipay_payee_note	请至商户页面查询状态。如有疑问，请联系400-720-8888
+0x7f0a0205	wifipay_app_deposit_title	充值
+0x7f0a0206	wifipay_face_pay_amount_note	金额
+0x7f0a0207	wifipay_face_pay_rmb	¥
+0x7f0a0208	wifipay_btn_next	下一步
+0x7f0a0209	wifipay_input_deposit_amount	请输入充值金额
+0x7f0a020a	wifipay_transfer_more_record	更多记录
+0x7f0a020b	wifipay_transfer_record_last	最近转账
+0x7f0a020c	wifipay_btn_confirm	确定
+0x7f0a020d	wifipay_payee_account	收款人
+0x7f0a020e	wifipay_transfer_hint_input	填写WiFi万能钥匙账号
+0x7f0a020f	wifipay_app_transfer_title	转账
+0x7f0a0210	wifipay_remindertitle	提示
+0x7f0a0211	wifipay_alert_btn_add_now	马上添加
+0x7f0a0212	wifipay_progress_transfer	正在转账
+0x7f0a0213	wifipay_progress_deposit	正在充值
+0x7f0a0214	wifipay_progress_withdraw	正在提现
+0x7f0a0215	wifipay_progress_bindcard	正在绑卡
+0x7f0a0216	wifipay_progress_pay	正在支付
+0x7f0a0217	wifipay_deposit_title	充值
+0x7f0a0218	wifipay_transfer_title	转账
+0x7f0a0219	wifipay_withdraw_title	提现
+0x7f0a021a	wifipay_new_card_title	新卡%1$s
+0x7f0a021b	wifipay_band_card_copywriter	按照银行相关规定，绑卡时有可能从此卡中少量扣款（少于1元）已验证银行卡的真实性,验证通过后款项退回至钱包账户零钱，可随时提现
+0x7f0a021c	wifipay_transfer_contact_title	查找通讯录
+0x7f0a021d	wifipay_transfer_payee_different	付款人和收款人不能相同
+0x7f0a021e	wifipay_transfer_payee_phone	请输入正确的手机账号
+0x7f0a021f	wifipay_btn_pay	付款
+0x7f0a0220	wifipay_transfer_mark	备注
+0x7f0a0221	wifipay_transfer_input_amount	请输入付款金额
+0x7f0a0222	wifipay_transfer_mark_hint	添加备注(20个字以内)
+0x7f0a0223	wifipay_transfer_not_fund_phone	没有找到手机号
+0x7f0a0224	wifipay_confirm_transfer_note	正在向[payee]转账
+0x7f0a0225	wifipay_credit_level_limit_text	单次限额%1$s元
+0x7f0a0226	wifipay_wallet_unenough_trade	钱包零钱不足
+0x7f0a0227	wifipay_transfer_fail_title	转账失败
+0x7f0a0228	wifipay_btn_back	返回
+0x7f0a0229	wifipay_transfer_success_title	转账成功
+0x7f0a022a	wifipay_online_payee_unit	元
+0x7f0a022b	wifipay_wallet_bill_wallet_balance	钱包零钱
+0x7f0a022c	wifipay_deposit_name	钱包充值
+0x7f0a022d	wifipay_transfer_to_title	收款人
+0x7f0a022e	wifipay_transfer_to_amount	转账金额
+0x7f0a022f	wifipay_transfer_brand_name	付款方式
+0x7f0a0230	wifipay_transfer_order_title	备注
+0x7f0a0231	wifipay_app_withdraw_title	提现
+0x7f0a0232	wifipay_withdraw_true_amount	可提现零钱%1$s元
+0x7f0a0233	wifipay_withdraw_declare_amount	额度说明
+0x7f0a0234	wifipay_bank_card	银行卡
+0x7f0a0235	wifipay_withdraw_input_amount	请输入提现金额
+0x7f0a0236	wifipay_withdraw_normal_amount	0.00
+0x7f0a0237	wifipay_withdraw_not_exceeding_amount	金额已超过可提现零钱
+0x7f0a0238	wifipay_withdraw_amount_exolain	个人账户提现额度如下 :
+0x7f0a0239	wifipay_withdraw_single_limit	单笔限额
+0x7f0a023a	wifipay_withdraw_today_account	当天到账
+0x7f0a023b	wifipay_withdraw_tomorrow_account	次日到账
+0x7f0a023c	wifipay_withdraw_single_limit_value	5万/笔
+0x7f0a023d	wifipay_withdraw_today_account_value	10笔/天
+0x7f0a023e	wifipay_withdraw_tomorrow_account_value	20笔/天
+0x7f0a023f	wifipay_identity_add_card	请添加一张快捷银行卡，
+添加成功即可完成实名认证
+0x7f0a0240	wifipay_identity_upload_add_bank	添加银行卡
+0x7f0a0241	wifipay_setting_authentication	身份认证
+0x7f0a0242	wifipay_card_reserve_credentials_id	身份证
+0x7f0a0243	wifipay_card_reserve_name_title	姓名
+0x7f0a0244	wifipay_identity_upload_new	为保障您的权益，
+请上传身份证提高认证等级
+0x7f0a0245	wifipay_identity_upload_beginning	开始验证
+0x7f0a0246	wifipay_identity_upload_review	身份证件审核中，
+2个工作日内会通过短信告知审核结果
+0x7f0a0247	wifipay_identity_upload_afresh	您的身份证已过期，
+请重新上传最新的身份证
+0x7f0a0248	wifipay_identity_upload_id_card	上传身份证
+0x7f0a0249	wifipay_identity_upload_take_one	请将身份证正面照放入框内
+0x7f0a024a	wifipay_identity_upload_take_verso	请将身份证反面照放入框内
+0x7f0a024b	wifipay_identity_upload_rephotograph	重拍
+0x7f0a024c	wifipay_identity_upload_photo	身份证照片
+0x7f0a024d	wifipay_btn_commit	提交
+0x7f0a024e	wifipay_identity_time_start	起始日期
+0x7f0a024f	wifipay_identity_time_end	到期日期
+0x7f0a0250	wifipay_cancel	取消
+0x7f0a0251	wifipay_confirm_no_space	确定
+0x7f0a0252	wifipay_personal_long_term	长期
+0x7f0a0253	wifipay_personal_year	年
+0x7f0a0254	wifipay_personal_month	月
+0x7f0a0255	wifipay_personal_day	日
+0x7f0a0256	wifipay_identity_upload_submit	已提交
+0x7f0a0257	wifipay_home_no_net	当前没有网络
+0x7f0a0258	wifipay_home_error_net	网络异常
+0x7f0a0259	wifipay_home_app_loading	正在加载中
+0x7f0a025a	wifipay_home_title_number_default	123****4567
+0x7f0a025b	wifipay_home_title_name	手机钱包
+0x7f0a025c	wifipay_home_header_content_bill	账单
+0x7f0a025d	wifipay_home_header_content_remain	零钱
+0x7f0a025e	wifipay_home_header_content_bankcard	银行卡
+0x7f0a025f	wifipay_home_header_cotnent_price	一一
+0x7f0a0260	wifipay_identity_upload_result	审核结果将在2个工作日内
+发送到您的[mobile]手机上
+0x7f0a0261	wifipay_identity_upload_result_email	审核结果将在2个工作日内
+发送到[email]邮箱上
+0x7f0a0262	wifipay_deposit_success	充值提交成功
+0x7f0a0263	wifipay_deposit_fail	充值提交失败
+0x7f0a0264	wifipay_deposit_amount	充值金额
+0x7f0a0265	wifipay_withdraw_fail	提现失败
+0x7f0a0266	wifipay_withdraw_amount	提现金额
+0x7f0a0267	wifipay_finish	完成
+0x7f0a0268	wifipay_withdraw_bank_name	提现方式
+0x7f0a0269	wifipay_withdraw_apply_for	提现申请已提交
+0x7f0a026a	wifipay_withdraw_not_deposit_amount	充值金额超过限额
+0x7f0a026b	wifipay_alert_btn_upload_now	立即上传
+0x7f0a026c	wifipay_alert_btn_upload_delay	以后再说
+0x7f0a026d	wifipay_withdraw_not_transfer_amount	转账金额超过限额
+0x7f0a026e	wifipay_check_idcard_isvalid	请核实身份证有效期
+0x7f0a026f	wifipay_camera_open_exception	相机打开异常
+0x7f0a0270	wifipay_bill_no_record	暂无记录
+0x7f0a0271	wifipay_bill_load_more	正在加载
+0x7f0a0272	wifipay_bill_list_pay	支出¥
+0x7f0a0273	wifipay_bill_list_income	收入¥
+0x7f0a0274	wifipay_bill_transfer_income_simple	转入
+0x7f0a0275	wifipay_bill_transfer_out_simple	转出
+0x7f0a0276	wifipay_bill_cur_month	本月
+0x7f0a0277	wifipay_bill_his_month	%1$s月
+0x7f0a0278	wifipay_bill_title	账单
+0x7f0a0279	wifipay_bill_detail_title	交易记录
+0x7f0a027a	wifipay_bill_transfer_income	转账入账
+0x7f0a027b	wifipay_bill_transfer_out	转账出账
+0x7f0a027c	wifipay_bill_detail_pay	连尚支付
+0x7f0a027d	wifipay_bill_detail_money	付款金额
+0x7f0a027e	wifipay_bill_detail_helper	在线帮助
+0x7f0a027f	wifipay_setting_title	设置
+0x7f0a0280	wifipay_setting_text_approve	实名认证
+0x7f0a0281	wifipay_setting_text_alter_password	修改支付密码
+0x7f0a0282	wifipay_setting_text_forget_password	忘记支付密码
+0x7f0a0283	wifipay_setting_text_opinion	意见反馈
+0x7f0a0284	wifipay_setting_text_call	联系我们
+0x7f0a0285	wifipay_setting_text_number	400-720-8888
+0x7f0a0286	wifipay_feedback_note	反馈您的问题或者提出宝贵建议，有机会获得手机流量哦!
+0x7f0a0287	wifipay_card_reserve_mobile_title	手机号
+0x7f0a0288	wifipay_phone_hint	请输入手机号码
+0x7f0a0289	wifipay_me_suggest_feedback	建议反馈
+0x7f0a028a	wifipay_thanks_for_suggest	提交成功,感谢您的建议!
+0x7f0a028b	wifipay_user_no_login	未登陆
+0x7f0a028c	wifipay_select_the_payee	选择收款人
+0x7f0a028d	wifipay_no_such_users	未实名
+0x7f0a028e	wifipay_start_transfer	确认转账
+0x7f0a028f	wifipay_start_tdeposit	确认充值
+0x7f0a0290	wifipay_app_transfer_info	转账详情
+0x7f0a0291	wifipay_paymethod_tv_change	更换
+0x7f0a0292	wifipay_paymethod_tv_card	使用%1$s支付,
+0x7f0a0293	wifipay_paymethod_balance	使用零钱支付,
+0x7f0a0294	wifipay_paymethod_new_card	使用新银行卡支付,
+0x7f0a0295	wifipay_click_this_check	点此校验
+0x7f0a0296	wifipay_name_verify_success	姓名校验成功
+0x7f0a0297	wifipay_name_verify_fail	收款人姓名有误，请核对后重试。
+0x7f0a0298	wifipay_deposit_upper_limit	单次限额%1$s元
+0x7f0a0299	wifipay_bank_manager_right	管理
+0x7f0a029a	wifipay_bank_manager_right_cancel	取消
+0x7f0a029b	wifipay_bank_manager_star	****
+0x7f0a029c	wifipay_setting_no_login	未登录
+0x7f0a029d	wifipay_setting_no_approve	未实名认证
+0x7f0a029e	wifipay_setting_suggest_hint	请在此留下你的宝贵意见，让连尚钱包不断进步，谢谢！（200个字以内）
+0x7f0a029f	wifipay_remain_money_me	我的零钱
+0x7f0a02a0	wifipay_remain_top_up	充值
+0x7f0a02a1	wifipay_remain_withdrawals	提现
+0x7f0a02a2	wifipay_remain_bottom_introduce	本服务由盛付通提供
+0x7f0a02a3	wifipay_home_permission_error	权限异常
+0x7f0a02a4	wifipay_identity_upload_success	恭喜您,审核通过
+0x7f0a02a5	wifipay_transfer_checkout_name	请补全对方姓名，确保资金安全
+0x7f0a02a6	wifipay_transfer_unrealname	收款人未进行实名认证,请联系收款人完成实名认证
+0x7f0a02a7	wifipay_call_service	您将拨打号码
+0x7f0a02a8	wifipay_call_service_failed	拨打电话失败
+0x7f0a02a9	wifipay_payresult_success	%1$s提交成功
+0x7f0a02aa	wifipay_payresult_fail	%1$s提交失败
+0x7f0a02ab	wifipay_spay_success	支付成功
+0x7f0a02ac	wifipay_spay_fail	支付失败
+0x7f0a02ad	wifipay_spay_cancel	用户取消
+0x7f0a02ae	wifipay_spay_wait	支付中
+0x7f0a02af	wifipay_login_restart	当前未登录，请重新登录
+0x7f0a02b0	wifipay_wallet_prompt_title	协议
+0x7f0a02b1	wifipay_band_card_note	为了保证账户资金安全，只能绑定认证用户本人的银行卡。
+0x7f0a02b2	wifipay_wifiactivity_card_note	请选择银行卡类型
+0x7f0a02b3	wifipay_wifiactivity_card_title	卡类型
+0x7f0a02b4	wifipay_wifiactivity_user_prompt	用户协议
+0x7f0a02b5	wifipay_wifiactivity_warnning	提醒:后续绑卡只能绑定该持卡人的银行卡
+0x7f0a02b6	wifipay_wallet_safe_pay	连尚钱包安全支付
+0x7f0a02b7	wifipay_pay_amount_title	支付金额
+0x7f0a02b8	wifipay_card_type_cr	信用卡
+0x7f0a02b9	wifipay_card_type_dr	储蓄卡
+0x7f0a02ba	wifipay_sms_code_note	获取验证码失败，请重新获取
+0x7f0a02bb	wifipay_moblie_phone_desc	银行预留手机号是你在办理该银行卡时所填写的手机号。
+
+没有预留、手机号码忘记或者已停用，可联系银行客服更新处理。
+0x7f0a02bc	wifipay_moblie_phone_star	*****
+0x7f0a02bd	wifipay_moblie_phone_numble	手机号码 XXXXXXX
+0x7f0a02be	wifipay_bank_proposer_data	银行卡申请人资料
+0x7f0a02bf	wifipay_unreceived_auth_code	验证码发送至你的银行预留手机号。
+
+1、请确认当前是否使用预留手机号码。
+
+2、请查看短信是否被手机安全软件拦截。
+
+3、若预留号码已停用，请联系银行客服。
+
+4、获取更多帮助，可联系连尚客服4007208888。
+0x7f0a02c0	wifipay_retrieve_onthesafeside	为安全起见,完成后已绑卡会自动解绑
+0x7f0a02c1	wifipay_validator_phone_sms	%1$s需要短信确认，验证码已发送至手机：%2$s，请按提示操作。
+0x7f0a02c2	wifipay_verify_smsphone	验证手机号
+0x7f0a02c3	wifipay_unverify_smsphone	收不到验证码?
+0x7f0a02c4	wifipay_fill_verification_code	填写验证码
+0x7f0a02c5	wifipay_cardholders_that	持卡人说明
+0x7f0a02c6	wifipay_phone_numble_that	手机号说明
+0x7f0a02c7	wifipay_bankcard_message_note	信息加密处理,仅用于银行验证
+0x7f0a02c8	wifipay_bankcard_onlyself_note	提醒:后续只能绑定该持卡人的银行卡
+0x7f0a02c9	wifipay_statement_sdp_provide	本服务由盛付通提供
+0x7f0a02ca	wifipay_verify_account_cents	将扣除0.01元以验证账户有效
+0x7f0a02cb	wifipay_bankquota_unband	解除绑定
+0x7f0a02cc	wifipay_bankcard_unband_failed	解绑银行卡失败
+0x7f0a02cd	wifipay_card_info_input	请填写银行卡信息
+0x7f0a02ce	wifipay_callpay_title	支付
+0x7f0a02cf	wifipay_bindcard_title	绑定银行卡
+0x7f0a02d0	wifipay_unknown_type	当前操作
+0x7f0a02d1	auth_token_efficacy	登录状态已失效	登录状态已失效
+0x7f0a02d2	settings_title	Mine	连尚个人中心
+0x7f0a02d3	settings_pref_register_title	Login WiFi Master Key	登录WiFi万能钥匙
+0x7f0a02d4	settings_pref_register_summary	Enjoy one touch save and recovery of hotspots	享受热点的一键收藏和恢复
+0x7f0a02d5	settings_pref_register_ok_summary	Authentication via mobile number	手机号码验证通过
+0x7f0a02d6	settings_pref_message_title	Messages	消息
+0x7f0a02d7	settings_pref_level_title	Level	等级
+0x7f0a02d8	settings_pref_level_summary	Share AP,Share profit	分享热点，共享收益
+0x7f0a02d9	settings_pref_level_summary2	Has %s AP	拥有%s个热点
+0x7f0a02da	settings_pref_level_tip1	Lv%s	Lv%s
+0x7f0a02db	settings_pref_level_tip2	Congratulations with LV%s	恭喜升级到LV%s
+0x7f0a02dc	settings_pref_backup_ap_title	Hotspot Save	收藏还原热点
+0x7f0a02dd	settings_pref_shared_ap_title	Hotspot Sharing Cancellation	取消热点分享
+0x7f0a02de	settings_pref_settings_title	Settings	设置
+0x7f0a02df	settings_about_title	About	关于
+0x7f0a02e0	settings_pref_app_settings_title	App Settings	应用设置
+0x7f0a02e1	settings_pref_invite_title	Share with Friends	邀请好友
+0x7f0a02e2	settings_pref_check_title	Check for Latest Versions	检查新版本
+0x7f0a02e3	settings_pref_feedback_title	Help & Feedback	帮助与反馈
+0x7f0a02e4	settings_pref_grade_title	Rate Us	给我好评
+0x7f0a02e5	settings_pref_follow_weixin_title	Follow Us on WeChat	关注微信
+0x7f0a02e6	settings_pref_about_title	About WiFi Master Key	关于WiFi万能钥匙
+0x7f0a02e7	settings_pref_logout_title	Log out	退出登录
+0x7f0a02e8	settings_pref_share_auto_title	Share Connected Hotspot	分享已连接热点
+0x7f0a02e9	settings_pref_backup_auto_title	Save Connected Hotspot	收藏已连接热点
+0x7f0a02ea	settings_pref_show_icon_notification_title	Show Status Bar Icon Info	显示状态栏图标信息
+0x7f0a02eb	settings_pref_check_version_startup_title	New Version Notifications	新版本提醒
+0x7f0a02ec	settings_pref_new_message_tip_title	New Message Notifications	新消息提醒
+0x7f0a02ed	settings_pref_new_message_tip_summary	No notification when turning off	关闭后，您将不再接受到消息提醒
+0x7f0a02ee	settings_pref_new_message_night_tip_title	Do Not Disturb	夜间防打扰模式
+0x7f0a02ef	settings_pref_new_message_night_tip_summary	No notification during 22:00PM to 8:00AM when turning on	开启后，将自动屏蔽22:00-8:00的消息提醒
+0x7f0a02f0	settings_pref_remind_when_quit_title	Remind When Quiting	退出时提醒
+0x7f0a02f1	settings_pref_remind_lastest_news_title	Receive Latest News	接收最新消息
+0x7f0a02f2	settings_pref_set_default_title	Set as Default WiFi Tool	设置为默认WiFi管理器
+0x7f0a02f3	settings_pref_share_auto_summary	Sharing hotspots brings convenience to more people	让更多人体验分享带来的方便
+0x7f0a02f4	settings_pref_backup_auto_summary	All save passwords can only be accessed by you and will never be shared	收藏的热点仅能您私人连接时使用，绝不会公开
+0x7f0a02f5	settings_pref_tip_connect_available_wifi_in_notification_bar_title	Show notice in notification bar when find free WiFi	发现WiFi通知栏提醒
+0x7f0a02f6	settings_pref_tip_connect_available_wifi_in_desktop_title	Show notice in desktop when find free WiFi	发现WiFi桌面提醒
+0x7f0a02f7	settings_pref_hot_safety_inspection_reminder_title	Hotspot Security Inspection Reminder	热点安全监测提醒
+0x7f0a02f8	settings_pref_product_introduct_title	Product Introduction	功能介绍
+0x7f0a02f9	settings_pref_fqa_title	FAQ	常见问题
+0x7f0a02fa	settings_pref_ver_check_title	Latest Version	版本更新
+0x7f0a02fb	settings_pref_cache_check_title	Cache Size	清理缓存
+0x7f0a02fc	settings_block_routine	Rules	常规
+0x7f0a02fd	settings_block_privacy	Privacy	隐私
+0x7f0a02fe	settings_block_remind	Reminder	提醒
+0x7f0a02ff	settings_about_slogan_title	WiFi Master Key	WiFi万能钥匙
+0x7f0a0300	settings_about_copyright_title	Service Rules and Privacy Policy	服务条款和隐私政策
+0x7f0a0301	settings_about_icon_desption
+0x7f0a0302	settings_about_publisher_title	Copyright © 2012–2017 连尚网络科技有限公司	Copyright © 2012–2017 连尚网络科技有限公司
+0x7f0a0303	settings_about_wenxinhao_title	WiFiMasterKey	WiFiMasterKey
+0x7f0a0304	settings_about_no_market_installed	No market installed	您还没有安装应用市场
+0x7f0a0305	settings_web_product_introduct_title	Function Introduction	功能介绍
+0x7f0a0306	settings_web_product_introduct_file_name	appintro_en.html	appintro.html
+0x7f0a0307	settings_web_fqa_title	FAQ	全部问题
+0x7f0a0308	settings_web_fqa_file_name	qa_en.html	qa.html
+0x7f0a0309	settings_web_feedback_faq_file_name	qa/index_en.html	qa/index.html
+0x7f0a030a	settings_web_protocal_title	User Agreement	用户服务协议
+0x7f0a030b	settings_web_protocal_name	agreement_en.html	agreement.html
+0x7f0a030c	settings_feedback_title	Feedback	意见反馈
+0x7f0a030d	settings_feedback_msg_hint	1, the connection problem please add description
+ 2, according to the actual situation, please describe the connection problem	1、连接问题请补充问题描述（如蓝钥匙热点无法连接/掉线/同一热点别人能连我不能连...)+热点名称+手机号码
+2、非连接问题请按实际情况描述
+0x7f0a030e	settings_feedback_contact_hint	Contact(Phone number, QQ)	联系方式(手机号、QQ)
+0x7f0a030f	settings_btn_submit_title	Submit	提交
+0x7f0a0310	settings_feedback_connect_qq_hint	QQ for Feedback:%s	马上联系反馈QQ群:%s
+0x7f0a0311	settings_feedback_connect_qq_hint_2	QQ for Feedback:%s	马上联系企业QQ:%s
+0x7f0a0312	settings_feedback_connect_qq_hint_3	QQ for Feedback:%s	马上联系企业QQ2:%s
+0x7f0a0313	settings_feedback_click_to_copy_qq_hint	Tap to copy	点击复制
+0x7f0a0314	settings_feedback_cancel_share_title	I would like to cancel hotspot sharing	我要取消热点的分享
+0x7f0a0315	settings_feedback_copy_qq_toast	Successfully copied QQ.	复制QQ成功
+0x7f0a0316	settings_spitslot_msg_hint	Just give us some advice or complain about us	1、您的建议是我们提升的方向！
+2、您的吐槽是我们改进的动力！
+0x7f0a0317	settings_spitslot_contact	Contact	联系方式
+0x7f0a0318	settings_spitslot_contact_hint	Phone number, QQ, WeChat	手机号、QQ号、微信号
+0x7f0a0319	settings_spitslot_gender	Gender	性别
+0x7f0a031a	settings_spitslot_gender_male	Male	男
+0x7f0a031b	settings_spitslot_gender_female	Female	女
+0x7f0a031c	settings_spitslot_connect_qq_hint	QQ for Feedback:%s	马上加入QQ群:%s
+0x7f0a031d	settings_spitslot_connect_qq_hint_2	WeChat for Feedback:%s	马上关注微信服务号:%s
+0x7f0a031e	settings_spitslot_copy_qq_toast	Successfully copied QQ.	复制QQ成功
+0x7f0a031f	settings_spitslot_copy_wechat_toast	Successfully copied WeChat.	复制微信服务号成功
+0x7f0a0320	settings_browser_choosertitle_sharevia_title	Share with Friends	邀请好友
+0x7f0a0321	settings_invite_cancel_title	Cancel	取消
+0x7f0a0322	settings_more_share_friend_title	WeChat Moments	朋友圈
+0x7f0a0323	settings_more_share_weixin_title	Wechat Friends	微信好友
+0x7f0a0324	settings_more_share_share_as	Others	其他方式
+0x7f0a0325	settings_more_sendto_subject	Get online with WiFi Master Key: free and easy	推荐你使用WiFi万能钥匙免费自动连接热点
+0x7f0a0326	settings_more_sendto_content	I'm using @WiFiMasterKey for free Internet connection.Try it out: http://www.lianwifi.com	我最近正在使用@WiFi万能钥匙，可以免费连接附近的热点，非常方便，你也来试试吧。http://www.lianwifi.com
+0x7f0a0327	settings_more_sendto_desption	I'm using @WiFiMasterKey for free Internet connection. Come and have a try!	我最近正在使用@WiFi万能钥匙，可以免费连接附近的热点，非常方便，你也来试试吧。
+0x7f0a0328	settings_more_sendto_url	http://www.lianwifi.com	http://www.lianwifi.com
+0x7f0a0329	settings_more_sendto_title	Recommand to friends	推荐给朋友
+0x7f0a032a	settings_hotspot_activity_not_support_prompt	Sorry, your phone does not support this function	对不起，你的手机暂时不支持这个功能
+0x7f0a032b	settings_backup_actionbar_title	Save	收藏还原热点
+0x7f0a032c	settings_dlg_prg_ratate_title	Loading...	加载网络
+0x7f0a032d	settings_dlg_prg_rotate_msg	Obtaining information of Save hotspot...	正在获取收藏的热点信息
+0x7f0a032e	settings_back_num_backup	hotspots to save	个热点可收藏
+0x7f0a032f	settings_back_num_restore	hotsports to recover	个热点可恢复
+0x7f0a0330	settings_cloud_sync_item_del_title	Delete	删除
+0x7f0a0331	settings_feedback_contact_invalid	Please enter the correct contact information	请输入正确的联系方式
+0x7f0a0332	settings_feedback_content_invalid	Please enter your feedback	请输入要反馈的内容
+0x7f0a0333	settings_feedback_send_ok	Feedback submitted successfully, thank you for your support!	发送反馈成功
+0x7f0a0334	settings_feedback_send_failed	Submission failed, please try again later.	发送反馈失败
+0x7f0a0335	settings_spitslot_send_ok	Submitted successfully.	发送吐槽成功
+0x7f0a0336	settings_spitslot_send_failed	Submitted failed.	发送吐槽失败
+0x7f0a0337	settings_pref_plugin_title	Tools	工具
+0x7f0a0338	settings_pref_favorite_title	Favorite	收藏
+0x7f0a0339	settings_pref_insurance_title	WiFi insurance	WiFi安全险
+0x7f0a033a	settings_pref_hotspot_title	Portable Personal Hotspot	随身WiFi
+0x7f0a033b	settings_pref_traffic_title	Traffic Stats	流量统计
+0x7f0a033c	settings_pref_dm_title	Download Management	下载管理
+0x7f0a033d	settings_version_is_latest	You have upgraded to the latest version.	已经是最新版本
+0x7f0a033e	settings_version_network_error	Network unavailable, please try again later.	网络连接异常，请稍候重试
+0x7f0a033f	settings_weixin_btn_copy	Copy Official Accounts	复制公众号
+0x7f0a0340	settings_no_install_weixin_tip	No WeChat detected on your phone	你的手机上未安装微信
+0x7f0a0341	settings_app_is_not_installed	App is not installed	应用未安装
+0x7f0a0342	settings_uploading_avatar	Uploading now	正在上传头像
+0x7f0a0343	settings_upload_avatar_success	upload success	上传头像成功
+0x7f0a0344	settings_upload_avatar_failed	upload failed	上传头像失败
+0x7f0a0345	pull_to_refresh_footer_release_label	Release to refresh	松开后加载
+0x7f0a0346	pull_to_refresh_footer_pull_label	Pull down to refresh	上拉加载更多
+0x7f0a0347	pull_to_refresh_footer_refreshing_label	Refreshing, one moment please...…	正在加载中…
+0x7f0a0348	pull_to_refresh_footer_loading_finish	Refreshed	消息已加载完
+0x7f0a0349	settings_push_message_empty	No more new massage	暂无消息
+0x7f0a034a	settings_time_morning	Morning	上午
+0x7f0a034b	settings_time_afternoon	Afternoon	下午
+0x7f0a034c	settings_time_before_few_minute	%s Minutes before	%s分钟前
+0x7f0a034d	settings_log_succeed	Successfully Login	您已经成功登录
+0x7f0a034e	settings_dialog_warm_prompt	Kindly note	温馨提示
+0x7f0a034f	settings_dialog_warm_prompt_delete	Confirm to delete this message?	您确定删除此条消息吗?
+0x7f0a0350	settings_push_mark_readed	ReadAll	标记已读
+0x7f0a0351	settings_push_mark_readed_confirm	Mark all messages have been read?	标记全部消息为已读状态?
+0x7f0a0352	settings_push_message_multi_title	%s New Messages	%s条新信息
+0x7f0a0353	settings_push_message_multi_content	Tap to view the message	立即点击查看消息内容
+0x7f0a0354	settings_user_info_profile	Profile	基本资料
+0x7f0a0355	settings_user_info_avatar	Profile Photo	头像
+0x7f0a0356	settings_user_info_mobile	Mobile Number	手机号
+0x7f0a0357	settings_user_info_nickname	Username	昵称
+0x7f0a0358	settings_user_info_nickname_hint	No username entered	昵称未设置
+0x7f0a0359	settings_user_info_gender	Gender	性别
+0x7f0a035a	settings_user_info_gender_male	Male	男
+0x7f0a035b	settings_user_info_gender_female	Female	女
+0x7f0a035c	settings_user_info_edit_nickname	Change username	更改昵称
+0x7f0a035d	settings_user_info_nickname_is_not_allow_empty	No username entered.Please enter again.	昵称不允许为空
+0x7f0a035e	settings_user_info_nickname_is_not_validate	Username is invalidate.Please enter again.	昵称不允许使用特殊字符
+0x7f0a035f	settings_user_info_save	Save	保存
+0x7f0a0360	settings_user_info_no_nickname	No username entered	昵称未设置
+0x7f0a0361	settings_user_info_get_nickname_failed	Fail to set username.	未获取到昵称
+0x7f0a0362	settings_user_info_submit_nickname	Changing username...	正在更改昵称…
+0x7f0a0363	settings_user_info_submit_sex	Changing gender...	正在修改性别…
+0x7f0a0364	settings_user_info_submit_nickname_failed	Fail to change username.	更改昵称失败
+0x7f0a0365	settings_user_info_submit_sex_failed	Fail to change gender.	修改性别失败
+0x7f0a0366	settings_user_info_change_avatar_tip	手机空间不足，请先清理手机	手机空间不足，请先清理手机
+0x7f0a0367	check_setting_changed_repair	Repair done	修复完成
+0x7f0a0368	check_setting_changed_complete_configuration	Have you completed the configuration according to the tutorial guide? 	若您已确认完成修复，请返回到首页尝试刷新WiFi列表
+0x7f0a0369	check_setting_changed_view_tutorial	View the tutorial guide again	尚未修复
+0x7f0a036a	check_setting_changed_repaired	Repaired	继续设置
+0x7f0a036b	check_setting_360_one_into	1. Open
+0x7f0a036c	check_setting_360_one_360	【360mobilesafe】
+0x7f0a036d	check_setting_360_one_click	Tap
+0x7f0a036e	check_setting_baidu_one_moshi	【Super mode】
+0x7f0a036f	check_setting_baidu_one_click_into	2. Tap to open
+0x7f0a0370	check_setting_baidu_one_manager	【Privacy settings】
+0x7f0a0371	check_setting_baidu_three_into	3. Tap to open
+0x7f0a0372	check_setting_baidu_four_find	4. In your app settings, find
+0x7f0a0373	check_setting_baidu_four_location	【Acquire location information】
+0x7f0a0374	check_setting_baidu_four_choose	Tap to select
+0x7f0a0375	check_setting_baidu_four_allow	【Allow Access】
+0x7f0a0376	check_setting_xiaomi_one_safe	【Security centre】
+0x7f0a0377	check_setting_xiaomi_one_manager	【Authorisation settings】
+0x7f0a0378	check_setting_xiaomi_one_click	Tap
+0x7f0a0379	check_setting_xiaomi_one_app_manager	【App Authorisation settings】
+0x7f0a037a	check_setting_xiaomi_two_in	2. In
+0x7f0a037b	check_setting_xiaomi_two_manager	【App Authorisation settings】
+0x7f0a037c	check_setting_xiaomi_two_find	find
+0x7f0a037d	check_setting_xiaomi_two_click_into	Tap to open
+0x7f0a037e	check_setting_xiaomi_three_find	3. Find
+0x7f0a037f	check_setting_xiaomi_three_location	【Location】
+0x7f0a0380	check_setting_xiaomi_three_choose	Select
+0x7f0a0381	check_setting_xiaomi_three_allow	【Allow Access】
+0x7f0a0382	check_setting_xiaomi_three_start_location	to enable location function.
+0x7f0a0383	setting_xiaomi	Xiaomi Phone Settings	小米手机设置
+0x7f0a0384	setting_vovi	vivo Phone Settings	vivo手机设置
+0x7f0a0385	setting_360	360mobilesafe Settings	360手机卫士设置
+0x7f0a0386	setting_baidu	Baidushoujiweisi Settings	百度手机卫士设置
+0x7f0a0387	setting_tencent	Tencent Mobile Management Settings	腾讯手机管家设置
+0x7f0a0388	setting_meizu	Maize Phone Setting	魅族手机设置
+0x7f0a0389	setting_zte	ZTE Phone Settings	中兴手机设置
+0x7f0a038a	setting_check_title	If you are sure that there are hotspots nearby, please try the following methods	检测到您的地理位置定位服务被以下软件禁止，请及时修复以便可以正常上网。
+0x7f0a038b	setting_check_bottom	If you are sure that there are hotspots nearby, please check the settings in your device or security software	若您的手机没有打开地理位置定位服务，请尝试在手机设置中手动打开
+0x7f0a038c	setting_check_all	See more settings method	查看更多设置方法
+0x7f0a038d	setting_check_detail_set	Settings method	设置方法
+0x7f0a038e	frg_wifilist_btn_checksetting_wifi	Checking the settings	检查设置
+0x7f0a038f	btn_back	Back	返回
+0x7f0a0390	settings_photo_msg_no_camera	No Camera	没找到摄像头
+0x7f0a0391	settings_photo_commit	Confirm	确定
+0x7f0a0392	settings_avatar	Avatar	头像
+0x7f0a0393	settings_tips_no_avatar	No photo available	暂无头像
+0x7f0a0394	settings_tips_picture_url_error	Photo url error!	图片地址错误
+0x7f0a0395	settings_tips_save_picture_ing	Saving photo...	保存图片…
+0x7f0a0396	settings_tips_save_picture_success	Saved!	保存成功！
+0x7f0a0397	settings_tips_save_picture_failed	Photo not saved!	保存图片失败！
+0x7f0a0398	settings_tips_save_to_phone	Save to phone	保存到手机
+0x7f0a0399	settings_set_default_wifi_manager_tip	Please refer to the following settings 	请参照以下图示设置
+0x7f0a039a	settings_set_default_wifi_manager_now	Set up now	立即设置
+0x7f0a039b	settings_lantern_wallet_title	Wallet	连尚钱包
+0x7f0a039c	settings_lantern_wallet_home	Home	首页
+0x7f0a039d	settings_lantern_wallet_recharge	Top Up	充值
+0x7f0a039e	settings_lantern_wallet_forward	Transfer	转账
+0x7f0a039f	settings_lantern_wallet_withdrawals	Withdraw	提现
+0x7f0a03a0	check_setting_changed_complete_sucess	请返回到首页尝试刷新WiFi列表	请返回到首页尝试刷新WiFi列表
+0x7f0a03a1	check_setting_360_one_manager	【软件管理】
+0x7f0a03a2	check_setting_360_one_choose	选择
+0x7f0a03a3	check_setting_360_two_in	2.在
+0x7f0a03a4	check_setting_root_manager	【权限管理】
+0x7f0a03a5	check_setting_360_two_find	找到
+0x7f0a03a6	check_setting_wifimaster	【WiFi万能钥匙】
+0x7f0a03a7	check_setting_360_two_click_into	点进入
+0x7f0a03a8	check_setting_360_three_find	3.找到
+0x7f0a03a9	check_setting_360_three_location	【获取位置信息】
+0x7f0a03aa	check_setting_360_three_choose	并点击箭头选择
+0x7f0a03ab	check_setting_360_three_allow	【允许】
+0x7f0a03ac	check_setting_baidu_one_into	1.进入
+0x7f0a03ad	check_setting_baidu_one_baidu	【百度手机卫士】
+0x7f0a03ae	check_setting_baidu_one_choose	选择
+0x7f0a03af	check_setting_xiaomi_one_choose	选择	选择
+0x7f0a03b0	check_setting_xiaomi_one_into	1.进入	1.进入
+0x7f0a03b1	setting_samsung	三星手机设置	三星手机设置
+0x7f0a03b2	setting_huawei	华为手机设置	华为手机设置
+0x7f0a03b3	setting_check_has_limit	如果您确定附近有热点，尝试以下方法进行设置	如果您确定附近有热点，尝试以下方法进行设置
+0x7f0a03b4	setting_check_other_setting	其它安全软件设置方法：	其它安全软件设置方法：
+0x7f0a03b5	setting_check_has_limit_for_sys	如果你确定附近有热点，尝试以下方法进行设置：	如果你确定附近有热点，尝试以下方法进行设置：
+0x7f0a03b6	settings_pref_became_ap_owner	Claim Hotspot	认领热点
+0x7f0a03b7	settings_pref_feedback_title2	Feedback	吐槽建议
+0x7f0a03b8	settings_pref_auto_enable_mobile	Auto enable mobile network	自动打开数据网络
+0x7f0a03b9	settings_pref_exit	退出登录
+0x7f0a03ba	settings_pref_exiting	正在退出登录
+0x7f0a03bb	settings_pref_exiting_dialog_title	温馨提示
+0x7f0a03bc	settings_pref_clean_cache_dialog_title	提示
+0x7f0a03bd	settings_pref_exiting_dialog_tip	退出后您将不可以免费使用运营商热点，抽奖活动，热点备份等功能。是否确认退出该账号？
+0x7f0a03be	settings_pref_clean_cache_dialog_tip	数据清除后，图片、离线内容将无法恢复。确认要清理所有缓存吗？
+0x7f0a03bf	settings_pref_enable_notif	开启通知使用权	开启通知使用权
+0x7f0a03c0	settings_pref_follow_weibo_title	Follow Us on WeiBo	关注微博
+0x7f0a03c1	settings_pref_nearbyap_notify_tip_title	附近免费热点提醒	附近免费热点提醒
+0x7f0a03c2	settings_pref_nearbyap_notify_tip_summary	开启后，将会在合适的时间点提醒你附近可用热点	开启后，将会在合适的时间点提醒你附近可用热点
+0x7f0a03c3	dialog_ok	Ok	确定
+0x7f0a03c4	dialog_cancel	Cancel	取消
+0x7f0a03c5	settings_pref_operation_title	活动
+0x7f0a03c6	settings_pref_shop_title	服务号	服务号
+0x7f0a03c7	settings_pref_linksure_words	Copyright © 2012–2017 连尚网络科技有限公司	Copyright © 2012–2017 连尚网络科技有限公司
+0x7f0a03c8	cache_clear_suc_hint_front	已经为您清理了	已经为您清理了
+0x7f0a03c9	cache_clear_suc_hint_end	的空间	的空间
+0x7f0a03ca	cache_clear_fail_hint	清除失败	清除失败
+0x7f0a03cb	traffic_title	Traffic protection	数据流量保护
+0x7f0a03cc	traffic_app_info_title	data consumption detected	存在消耗流量情况
+0x7f0a03cd	traffic_suggestion_help	recommend to repair these apps to protect your data traffic	建议修复这些应用保护您的数据流量
+0x7f0a03ce	traffic_dangerous_note	Send/Receive unknown traffic in 2G/3G/4G mode	在2G/3G/4G下，不定时收发未知流量
+0x7f0a03cf	traffic_unusual_note	error duration 02:30:49	*异常持续时间02：30：49
+0x7f0a03d0	traffic_protection	Protect traffic now	立即进行流量保护
+0x7f0a03d1	traffic_uninstall_info	to avoid error, you can choose	彻底避免异常，可选择
+0x7f0a03d2	traffic_uninstall	Uninstall	卸载
+0x7f0a03d3	traffic_has_unusal	Suspicious traffic consumption detected	存在异常流量消耗行为
+0x7f0a03d4	traffic_unusal_time	Error duration: 	*异常持续时间:
+0x7f0a03d5	traffic_choose_stop	Please select stop now!	请选择强行停止!
+0x7f0a03d6	traffic_app_unstall	Uninstalled 	此应用已经被您卸载
+0x7f0a03d7	traffic_choose_sure	Please select confirm!	请选择确定!
+0x7f0a03d8	traffic_app_number	App	个应用
+0x7f0a03d9	traffic_statistics_title	Traffic Stats	流量统计
+0x7f0a03da	traffic_statistics_by_month	Ranking for monthly traffic	月流量排行
+0x7f0a03db	traffic_statistics_by_day	Ranking for daily traffic	日流量排行
+0x7f0a03dc	traffic_statistics_save_by_month	saved this month	本月为您节省
+0x7f0a03dd	traffic_statistics_save_by_day	saved today	今日为您节省
+0x7f0a03de	traffic_statistics_loading	Calculating the statistics...	正在统计数据…
+0x7f0a03df	wifi_can_not_reach_server	不能通达服务器
+0x7f0a03e0	super_neighbour_text	当前热点为超网,同网人数大于%1$d人
+0x7f0a03e1	wifi_neighbor_few	当前同网人数%1$d人
+0x7f0a03e2	wifi_neighbor_many	%1$d人同网，人数较多
+0x7f0a03e3	not_detected_wifi_access_protocol	未检测到接入协议
+0x7f0a03e4	wifi_disabled	Wifi disabled	WiFi未启用
+0x7f0a03e5	hotspot_ap_ssid	SSID:	热点名称:
+0x7f0a03e6	hotspot_ap_passwd	Password:	密码:
+0x7f0a03e7	hotspot_tether_configure_ap_text	Hotspot Settings	随身WiFi设置
+0x7f0a03e8	hotspot_activity_title	Portable Personal Hotspot	随身WiFi
+0x7f0a03e9	hotspot_activity_link_name	Portable Personal Hotspot	随身WiFi
+0x7f0a03ea	hotspot_progress_turning_off	Turning Off...	正在关闭…
+0x7f0a03eb	hotspot_progress_turning_on	Turning On...	正在打开…
+0x7f0a03ec	hotspot_enabled	Enabled	已开启
+0x7f0a03ed	hotspot_disabled	Disabled	未开启
+0x7f0a03ee	hotspot_ap_current_status	Current Status:	当前状态:
+0x7f0a03ef	hotspot_onekey_mobile_to_wifi	Enable Personal Hotspot	一键手机变热点
+0x7f0a03f0	hotspot_setting	Hotspot Settings	热点设置
+0x7f0a03f1	hotspot_prompt_1	Kindly Note:	温馨提示:
+0x7f0a03f2	hotspot_prompt_2	This feature will create a WiFi hotspot using your Mobile Data. Please set the Hotspot Name and Password before using, to avoid unintended connection of other devices.	此功能为2G/3G/4G流量转换成WiFi流量，使用时请设置好热点名称及密码，防止他人盗用流量
+0x7f0a03f3	hotspot_activity_not_support_prompt	Sorry,you phone not support this function	对不起，你的手机暂时不支持这个功能
+0x7f0a03f4	hotspot_activity_dlg_mobile_disabled_prompt	Mobile network is disabled	手机网络没打开
+0x7f0a03f5	hotspot_activity_dlg_mobile_disabled_when_enable_ap	The phone 2G / 3G / 4G traffic is not turned on, the phone becomes hotspot, others can not access the Internet connection, you can achieve LAN interconnection, whether to open the 2G / 3G / 4G?	发现手机2G/3G/4G流量没有开启，手机变热点后，他人连接也无法访问外网，只能实现局域网互联，是否开启2G/3G/4G?
+0x7f0a03f6	connect_hotspot_fragment_wifi_nossid	Please input ssid	请输入热点名称
+0x7f0a03f7	connect_hotspot_fragment_wifi_ssid	SSID max length 10	热点名称请不要超过10个字
+0x7f0a03f8	connect_hotspot_fragment_wifi_info	/Password: 	/密码: 
+0x7f0a03f9	connect_hotspot_fragment_open_progess	Waiting…	请您稍等片刻…
+0x7f0a03fa	connect_hotspot_fragment_close_progess	Shutting	正在为您关闭
+0x7f0a03fb	connect_hotspot_fragment_mobile_info	Open mobile network failed，Please manually open	此功能是您的数据流量转化成WiFi热点流量，请确认您的数据流量已开启，否则将无法使用此功能。
+0x7f0a03fc	wifi_ssid	Network SSID	网络 SSID
+0x7f0a03fd	wifi_password	Password	密码
+0x7f0a03fe	act_signal_detector_title	WiFi signal detector	WiFi信号检测
+0x7f0a03ff	act_signal_detector_ap_name	WiFi SSID:%1$s	Wifi名称:%1$s
+0x7f0a0400	act_signal_detector_move_position_prompt	keep moving,find a better position	请四处走走，寻找WiFi最强的位置
+0x7f0a0401	act_signal_detector_weak	Signal weak	信号弱
+0x7f0a0402	act_signal_detector_strong	Signal strong	WiFi信号很强
+0x7f0a0403	speed_test_title	Speed Test	Speed Test
+0x7f0a0404	speed_test_start	Start	开始测速
+0x7f0a0405	speed_test_restart	Restart	重新测速
+0x7f0a0406	speed_test_stop	Stop	长按停止
+0x7f0a0407	speed_sid	SSID: %1$s	SSID: %1$s
+0x7f0a0408	speed_bssid	BSSID: %1$s	BSSID: %1$s
+0x7f0a0409	speed_test	Speed Test	网络测速
+0x7f0a040a	speed_test_testing	Testing…	正在检测网速…
+0x7f0a040b	speed_test_delay	正在检测延时…
+0x7f0a040c	speed_ping_text	PING
+0x7f0a040d	speed_result_speed	当前平均网络速度：%1$s
+0x7f0a040e	speed_result_bangwidth	相当于%1$sM带宽
+0x7f0a040f	speed_result_slow	缓慢
+0x7f0a0410	speed_result_fast	极快
+0x7f0a0411	speed_result_lead	您的网速领先全国：%1$s%%
+0x7f0a0412	speed_result_pic	下载一张高清图片：%1$s秒
+0x7f0a0413	speed_result_video	下载一段十分钟视频：%1$s秒
+0x7f0a0414	speed_result_circle	分享到朋友圈
+0x7f0a0415	speed_result_circle_title	我超过了全国%1$s人的网速，你能超越我吗
+0x7f0a0416	speed_result_circle_fail	你的手机上未安装微信
+0x7f0a0417	speed_mobile_warning	您已切换到3g/4g网络，停止测速
+0x7f0a0418	speed_test_nowifi	Not found wifi connect	未检测到WiFi信息，请接入WiFi后再进行网络测速
+0x7f0a0419	speed_test_error	Error, perhaps there is no network	网络异常，可能无法正常上网
+0x7f0a041a	act_lower_sdkversion	The function needs support by android 2.2 and above. You may use the function after system upgrading.	此功能需要android 2.2及以上版本支持，您可升级系统后再使用此功能。
+0x7f0a041b	hotspot_check_sim	Please check your SIM	请检查手机sim卡
+0x7f0a041c	wifitools_hotspot_openap_result	I know	我知道了
+0x7f0a041d	wifitools_hotspot_openap_failed	Open hotspot failed ,please try later	随身WiFi开启失败，请稍后再尝试
+0x7f0a041e	wifitools_hotspot_openap_name	Please set your ap name	请设置您的热点名称
+0x7f0a041f	exam_title	安全检测
+0x7f0a0420	exam_safe	网络安全
+0x7f0a0421	exam_speed	网络测速
+0x7f0a0422	exam_device	设备检测
+0x7f0a0423	exam_speed_text	%1$sK/s
+0x7f0a0424	exam_speed_text_m	%1$sM/s
+0x7f0a0425	exam_result_title_normal	安全WiFi，放心上网
+0x7f0a0426	exam_result_title_security_none	未加密网络，请小心上网
+0x7f0a0427	exam_result_title_offline	很遗憾，不能上网
+0x7f0a0428	exam_result_title_security_web	需要网页认证
+0x7f0a0429	exam_result_tip_normal_300	网速很快，你可以做任何事情
+0x7f0a042a	exam_result_tip_normal_100	网速快，可以上网游戏
+0x7f0a042b	exam_result_tip_normal_15	网速一般，可以浏览新闻
+0x7f0a042c	exam_result_tip_normal_1	网速慢，仅适合聊天
+0x7f0a042d	exam_result_tip_normal_0	网络异常，建议切换WiFi
+0x7f0a042e	exam_result_tip_offline	无法连接网络，建议切换WiFi
+0x7f0a042f	exam_result_tip_security_web	暂时不能上网，请点击立即认证
+0x7f0a0430	exam_result_speed	网络速度：%1$s
+0x7f0a0431	exam_result_speed_tip_fast	当前网络速度良好
+0x7f0a0432	exam_result_speed_tip_slow	当前网络速度一般
+0x7f0a0433	exam_result_device	连接设备：%1$s台
+0x7f0a0434	exam_result_safe_tip	已经过%1$s项扫描，存在%2$s个风险
+0x7f0a0435	exam_result_safe_type_nomarl	安全
+0x7f0a0436	exam_result_safe_type_unusual	异常
+0x7f0a0437	exam_result_change_network	切换WiFi
+0x7f0a0438	exam_result_auth	立即认证
+0x7f0a0439	exam_result_find_devices	查看设备
+0x7f0a043a	exam_result_check_speed_again	立即参保
+0x7f0a043b	exam_result_open_vpn	开启保护
+0x7f0a043c	exam_result_safe	安全检测
+0x7f0a043d	exam_result_connect	连接设备过多可能导致网络不稳
+0x7f0a043e	exam_result_safe_true	网络安全
+0x7f0a043f	exam_result_safe_false	网络异常
+0x7f0a0440	exam_result_safe_none	未加密网络
+0x7f0a0441	exam_result_insurance	参保WiFi安全险，最高赔付10万元！
+0x7f0a0442	exam_result_insurance_button	免费参保
+0x7f0a0443	exam_result_game	游戏
+0x7f0a0444	exam_result_surf	上网
+0x7f0a0445	exam_result_talk	网络存在风险，建议参保
+0x7f0a0446	exam_result_video	视频
+0x7f0a0447	exam_device_title	%1$s个小伙伴已连接
+0x7f0a0448	exam_device_ip	IP：%1$s
+0x7f0a0449	exam_device_mac	MAC：%1$s
+0x7f0a044a	exam_device_unknown	未知设备
+0x7f0a044b	exam_result_find_devices_title	查看设备
+0x7f0a044c	exam_warning_1	可以正常上网
+0x7f0a044d	exam_warning_2	DNS服务器正常
+0x7f0a044e	exam_warning_3	不存在ARP欺骗攻击
+0x7f0a044f	exam_warning_4	可疑网站屏蔽
+0x7f0a0450	exam_warning_5	非虚假钓鱼Wi-Fi
+0x7f0a0451	exam_warning_6	未加密网络
+0x7f0a0452	exam_warning_7	加密网络
+0x7f0a0453	exam_device_mine	本机
+0x7f0a0454	exam_device_remark	备注
+0x7f0a0455	exam_device_save	保存
+0x7f0a0456	speed_delay	网络延时
+0x7f0a0457	speed_max	最大速度
+0x7f0a0458	speed_min	最小速度
+0x7f0a0459	speed_delay_text	%1$sms
+0x7f0a045a	apgrade_submit	Submit	提交
+0x7f0a045b	apgrade_star1	Hated it	讨厌
+0x7f0a045c	apgrade_star2	Disliked it	不喜欢
+0x7f0a045d	apgrade_star3	It's OK	还行
+0x7f0a045e	apgrade_star4	Liked it	喜欢
+0x7f0a045f	apgrade_star5	Loved it	超喜欢
+0x7f0a0460	apgrade_edittext_hint	leave a tip	亲，多说几句吧~
+0x7f0a0461	apgrade_title	Rate	热点评分
+0x7f0a0462	apgrade_tip_no_do	not completed	您还未完成对热点的评分
+0x7f0a0463	apgrade_tip_no_net	network error,please check the network settings	网络异常，请检查网络设置
+0x7f0a0464	apgrade_tip_sucess	submit successed	提交成功
+0x7f0a0465	apgrade_again	Re-Rating	重新评价
+0x7f0a0466	apgrade_tip_grade	Rate	给热点评分
+0x7f0a0467	apgrade_tip_no_address	not completed the location	热点信息尚未完善
+0x7f0a0468	credentials_password_too_short	Password should contain at least 8–20 characters.	密码应包含8–20个字符
+0x7f0a0469	exam_network_checking	能否上网	能否上网
+0x7f0a046a	exam_network_exception	不能上网	不能上网
+0x7f0a046b	exam_network_available	正常上网	正常上网
+0x7f0a046c	exam_wifi_insurance	WiFi安全险－上网无忧	WiFi安全险－上网无忧
+0x7f0a046d	exam_enter_network	开始上网	开始上网
+0x7f0a046e	exam_insurance_safe	免费参保，上网更放心
+0x7f0a046f	exam_resulttip_safe	购物、聊天、无忧畅享网络
+0x7f0a0470	exam_resulttip_risk	谨慎提交帐号等个人信息
+0x7f0a0471	tips_network_status_checking	Checking Internet connection...	正在检查是否连接互联网...
+0x7f0a0472	tips_network_status_online	Connected to Internet	成功连接到互联网
+0x7f0a0473	tips_network_status_auth	This hotspot requires authentication, unable to access temporarily.	此热点需要认证，暂无法上网
+0x7f0a0474	tips_network_status_offline	This hotspot is not connected, recommend to change WiFi.	此热点网络状况不佳，建议切换WiFi
+0x7f0a0475	tips_connect_success	Connected	连接成功
+0x7f0a0476	tips_connect_failed	Connection failed.	连接失败
+0x7f0a0477	tips_connect_failed_timeout	Connection timed out.	连接失败，超时
+0x7f0a0478	tips_connect_failed_no_password	Connection failed, hotspot owner may have changed the password.	连接失败，可能热点主人已更换设置
+0x7f0a0479	tips_connect_failed_error_password	Connection failed, hotspot owner may have changed the password.	连接失败，可能热点主人已更换设置
+0x7f0a047a	tips_connect_failed_mac_limit	Connection failed, MAC address binding issue.	连接失败，MAC地址绑定
+0x7f0a047b	tips_connect_failed_connection_limit	Connection failed, maximum connection reached.	连接失败，已经达到最大连接
+0x7f0a047c	tips_connect_failed_poor_signal	Connection failed, weak signal.	连接失败，信号很弱
+0x7f0a047d	tips_connect_failed_wifi_abnormal	Connection failed, WiFi error.	连接失败，WiFi模块异常
+0x7f0a047e	tips_connect_failed_canceled	Connection failed, interrupted process.	连接失败，过程被中断
+0x7f0a047f	tips_key_querying	Searching for WiFi key	正在查询附近可连接免费热点
+0x7f0a0480	tips_key_not_found	No WiFi key found	没有发现可用免费热点
+0x7f0a0481	tips_key_queried	Hotspot with a key icon can auto connect via WiFi Master Key.	有钥匙图标表示可以用万能钥匙免费连接
+0x7f0a0482	tips_key_query_failed	网络异常，请检查数据网络开关，或稍后再试.	网络异常，请检查数据网络开关，或稍后再试
+0x7f0a0483	tips_disconnecting	Disconnecting...	正在断开连接...
+0x7f0a0484	tips_disconnected_success	Disconnected	断开连接成功
+0x7f0a0485	tips_disconnected_failed	Disconnection failed.	断开连接失败
+0x7f0a0486	tips_forget_success	Forget network successed	忘记网络成功
+0x7f0a0487	tips_forget_failed	Failed to forget network	忘记网络失败
+0x7f0a0488	tips_backup_ap_success	Hotspot Save Success	收藏热点成功
+0x7f0a0489	tips_backup_ap_failed	Hotspot Save Failure	收藏热点失败
+0x7f0a048a	tips_plugin_need_register	Please register to use this hotspot.	需要注册才能使用专享热点
+0x7f0a048b	tips_plugin_downloading	Downloading	正在下载专享热点插件
+0x7f0a048c	tips_plugin_updating	Refreshing	正在更新专享热点插件
+0x7f0a048d	tips_plugin_download_failed	Download failed. Please try again later.	专享热点插件下载失败，请稍后尝试
+0x7f0a048e	tips_plugin_download_success	Downloaded	专享热点插件下载成功
+0x7f0a048f	frg_wifilist_btn_refresh_wifi	Continue to refresh	继续刷新
+0x7f0a0490	tips_enable_mobile_network_fail	Failed to enable mobile connection	数据网络打开失败
+0x7f0a0491	tips_forget_failed_system_limit	由于系统限制，忘记网络失败	由于系统限制，忘记网络失败
+0x7f0a0492	share_ap_go_now	Click now	立刻前往
+0x7f0a0493	tips_wifi_memeber_wifikey	中国计算机协会网络安全连接专业委员会成员	中国计算机协会网络安全连接专业委员会成员
+0x7f0a0494	auto_enable_mobile_confirm	Next auto enable	下次自动打开
+0x7f0a0495	auto_enable_mobile_ing	Enable mobile network...	正在打开数据网络...
+0x7f0a0496	tips_wifi_perm_wlan_disable	You have turn off the WiFi switch function, please turn on the switch in settings or related safe app	您已关闭了WiFi万能钥匙的开关WiFi功能，请在设置或相关安全管家中打开WiFi开关权限功能
+0x7f0a0497	connect_close_wifi	Close WiFi	关闭WiFi
+0x7f0a0498	connect_open_wifi	Open WiFi	开启WiFi
+0x7f0a0499	dialog_phoneap_title	警告	警告
+0x7f0a049a	dialog_phoneap_desc	您即将连接的可能是一个手机热点，可能不稳定，并存在一定安全风险，确定要继续连接吗？	您即将连接的可能是一个手机热点，可能不稳定，并存在一定安全风险，确定要继续连接吗？
+0x7f0a049b	dialog_phoneap_desc_2	手机热点	手机热点
+0x7f0a049c	map_dialog_download	你需要下载WiFi地图才可以使用，是否确认下载？	你需要下载WiFi地图才可以使用，是否确认下载？
+0x7f0a049d	map_dialog_download_by_mobile_net	你需要下载WiFi地图才可以使用，您现在处于数据网络，可能会消耗部分流量是否确认下载？	你需要下载WiFi地图才可以使用，您现在处于数据网络，可能会消耗部分流量是否确认下载？
+0x7f0a049e	map_download_success	WiFi地图下载成功	WiFi地图下载成功
+0x7f0a049f	map_download_fail	WiFi地图下载失败	WiFi地图下载失败
+0x7f0a04a0	map_downloading	正在下载WiFi地图插件	正在下载WiFi地图插件
+0x7f0a04a1	map_downloading_size	已经完成 %s	已经完成 %s
+0x7f0a04a2	map_downloading_alert	隐藏到通知栏下载	隐藏到通知栏下载
+0x7f0a04a3	map_download_downloading	正在下载	正在下载
+0x7f0a04a4	map_download_no_sd	未检测到SD卡不能下载	未检测到SD卡不能下载
+0x7f0a04a5	map_download_start	开始下载	开始下载
+0x7f0a04a6	connect_share_title	个性主张，感谢有你！	个性主张，感谢有你！
+0x7f0a04a7	connect_share_msg_success	感谢你的分享！	感谢你的分享！
+0x7f0a04a8	connect_share_msg_fail	感谢你的分享！由于系统版本限制，需要你前往系统设置中忘记网络才能验证密码。	感谢你的分享！由于系统版本限制，需要你前往系统设置中忘记网络才能完成验证。
+0x7f0a04a9	connect_dialog_ap_wep	WEP热点输入密码长度不得超过16位	WEP热点输入密码长度不得超过16位
+0x7f0a04aa	connect_list_linksure_words	连尚网络科技有限公司旗下产品	连尚网络科技有限公司旗下产品
+0x7f0a04ab	connect_actionbar_title	WiFi Master Key	WiFi万能钥匙
+0x7f0a04ac	action_bar_map	WiFiMap	WiFi地图
+0x7f0a04ad	action_bar_hotspot	Hotspot	随身WiFi
+0x7f0a04ae	action_bar_appstore	Tool box	应用设置
+0x7f0a04af	action_bar_custom_default	Recommend	推荐
+0x7f0a04b0	action_bar_present	Present	有奖活动
+0x7f0a04b1	wifi_show_advanced	Show advanced options
+0x7f0a04b2	wifi_enabling	WiFi enabling...	正在开启WiFi...
+0x7f0a04b3	wifi_enabled_scaning	WiFi enabled，scanning...	WiFi已打开，正在扫描热点...
+0x7f0a04b4	wifi_not_found	No access point found	附近没有发现WiFi热点
+0x7f0a04b5	wifi_found	%d access points found	附近发现%d个WiFi热点
+0x7f0a04b6	wifi_connected	%s connected	成功连接 %s
+0x7f0a04b7	wifi_connecting	Connecting to %s	正在连接 %s
+0x7f0a04b8	key_querying	Querying keys...	正在查询免费WiFi
+0x7f0a04b9	key_not_found	No key found	没有发现可用免费热点
+0x7f0a04ba	key_queried	Hotspots with a key icon can be automatically connected.	有钥匙图标表示可以用万能钥匙自动连接
+0x7f0a04bb	key_query_failed	Key query failed	网络连接异常，请稍候重试
+0x7f0a04bc	mobile_connection_disabled	Mobile connection disabled	数据网络未打开，无法联网查询
+0x7f0a04bd	mobile_connection_failed_to_enable	Failed to enable mobile connection	暂时无法打开数据网络，请稍候重试
+0x7f0a04be	enable_wifi	Enable Wifi	打开WiFi，扫描热点
+0x7f0a04bf	enabling_wifi	Enabling Wifi	正在开启WiFi...
+0x7f0a04c0	disable_hotspot	Disable hotspot	关闭随身Wifi，扫描热点
+0x7f0a04c1	wifi_ssid_hint	Enter the SSID	输入 SSID
+0x7f0a04c2	wifi_security	Security
+0x7f0a04c3	wifi_signal	Signal strength
+0x7f0a04c4	wifi_status	Status
+0x7f0a04c5	wifi_speed	Link speed
+0x7f0a04c6	wifi_ip_address	IP address	IP 地址
+0x7f0a04c7	wifi_ip_address_hint	192.168.1.128
+0x7f0a04c8	wifi_eap_method	EAP method	EAP 方法
+0x7f0a04c9	please_select_phase2	Phase 2 authentication	阶段 2 身份验证
+0x7f0a04ca	wifi_eap_ca_cert	CA certificate	CA 证书
+0x7f0a04cb	wifi_eap_user_cert	User certificate	用户证书
+0x7f0a04cc	wifi_eap_identity	Identity	身份
+0x7f0a04cd	wifi_eap_anonymous	Anonymous identity	匿名身份
+0x7f0a04ce	wifi_show_password	Show password	显示密码
+0x7f0a04cf	wifi_ip_settings	IP settings	IP 设置
+0x7f0a04d0	wifi_unchanged	(unchanged)	（未更改）
+0x7f0a04d1	wifi_unspecified	(unspecified)	（未指定）
+0x7f0a04d2	wifi_remembered	Saved	已保存
+0x7f0a04d3	wifi_disabled_generic	Disabled	未启用
+0x7f0a04d4	wifi_disabled_network_failure	Avoided poor Internet connection	已停用（互联网连接状况不佳）
+0x7f0a04d5	wifi_disabled_password_failure	Authentication problem	身份验证出现问题
+0x7f0a04d6	wifi_not_in_range	Not in range	不在范围内
+0x7f0a04d7	wifi_wps_available_first_item	WPS available	可使用 WPS
+0x7f0a04d8	wifi_wps_available_second_item	 (WPS available)	 （可使用 WPS）
+0x7f0a04d9	wifi_secured_first_item	%1$s	 %1$s
+0x7f0a04da	wifi_secured_second_item	, %1$s	， %1$s
+0x7f0a04db	wifi_security_short_wep	WEP
+0x7f0a04dc	wifi_security_short_wpa	WPA
+0x7f0a04dd	wifi_security_short_wpa2	WPA2
+0x7f0a04de	wifi_security_short_wpa_wpa2	WPA/WPA2
+0x7f0a04df	wifi_security_short_psk_generic	@ref/0x7f0a04de
+0x7f0a04e0	wifi_security_short_eap	802.1x
+0x7f0a04e1	wifi_security_none	None	无
+0x7f0a04e2	wifi_security_wep	WEP
+0x7f0a04e3	wifi_security_wpa	WPA PSK
+0x7f0a04e4	wifi_security_wpa2	WPA2 PSK
+0x7f0a04e5	wifi_security_wpa_wpa2	WPA/WPA2 PSK
+0x7f0a04e6	wifi_security_psk_generic	@ref/0x7f0a04e5
+0x7f0a04e7	wifi_security_eap	802.1x EAP
+0x7f0a04e8	wifi_connect	Connect	连接
+0x7f0a04e9	wifi_failed_connect_message	Failed to connect to network	无法连接网络
+0x7f0a04ea	wifi_forget	Forget	取消保存
+0x7f0a04eb	wifi_forget_failed_message	Failed to forget network	无法忘记网络
+0x7f0a04ec	wifi_forget_succeeded_message	Succeeded to forget network	忘记网络成功
+0x7f0a04ed	wifi_save	Save	保存
+0x7f0a04ee	wifi_failed_save_message	Failed to save network	无法保存网络
+0x7f0a04ef	wifi_cancel	Cancel	取消
+0x7f0a04f0	wifi_share	Share	分享
+0x7f0a04f1	wifi_dialog_title_for_connect	Connect %1$s	连接 %1$s
+0x7f0a04f2	wifi_dialog_title_for_share	Share %1$s	分享 %1$s
+0x7f0a04f3	wifi_dialog_title_weeksignal_tip	Weak WiFi signal maybe failed!	信号较弱，可能连接不成功
+0x7f0a04f4	proxy_settings_title	Proxy
+0x7f0a04f5	proxy_port_label	Proxy port
+0x7f0a04f6	proxy_port_hint	8080
+0x7f0a04f7	proxy_exclusionlist_label	Bypass proxy for
+0x7f0a04f8	proxy_exclusionlist_hint	example.com,mycomp.test.com,localhost
+0x7f0a04f9	proxy_hostname_label	Proxy hostname
+0x7f0a04fa	proxy_hostname_hint	proxy.example.com
+0x7f0a04fb	proxy_error_invalid_port	The port you typed isn't valid.
+0x7f0a04fc	proxy_warning_limited_support	The HTTP proxy is used by the browser but may not be used by the other apps.
+0x7f0a04fd	proxy_url	PAC URL:
+0x7f0a04fe	wifi_fail_to_scan	Failed to scan network	无法通过扫描查找网络
+0x7f0a04ff	wifi_one_key_query	One key query	一键查询万能钥匙
+0x7f0a0500	action_magic_conn	Direct	钥匙连接
+0x7f0a0501	action_business_home	Shop	门店主页
+0x7f0a0502	action_connect	Connect	直接连接
+0x7f0a0503	action_connect_ing	Connecting...	正在连接...
+0x7f0a0504	action_input_password	Input pwd	密码连接
+0x7f0a0505	action_dig
+0x7f0a0506	action_disconnect	Disconnect	断开连接
+0x7f0a0507	action_details	Details	热点详情
+0x7f0a0508	action_security_test	Security test	安全检测
+0x7f0a0509	action_speed_test	Speed test	网络测速
+0x7f0a050a	action_examination	Examnination	WiFi体检
+0x7f0a050b	action_backup	Save	收藏热点
+0x7f0a050c	action_share	Share	分享热点
+0x7f0a050d	action_forget	Forget	忘记网络
+0x7f0a050e	action_report_phishing	Report phishing AP	举报钓鱼
+0x7f0a050f	action_signal_detect	Signal detect	信号检测
+0x7f0a0510	action_ap_grade	Rate	热点评分
+0x7f0a0511	action_ap_homepage	Wifi homepage	热点主页
+0x7f0a0512	wifi_advanced_titlebar	Advanced Wi‑Fi
+0x7f0a0513	wifi_ip_settings_invalid_ip_address	Type a valid IP address.
+0x7f0a0514	wifi_ip_settings_invalid_gateway	Type a valid gateway address.
+0x7f0a0515	wifi_ip_settings_invalid_dns	Type a valid DNS address.
+0x7f0a0516	wifi_ip_settings_invalid_network_prefix_length	Type a network prefix length between 0 and 32.
+0x7f0a0517	wifi_dns1	DNS 1
+0x7f0a0518	wifi_dns1_hint	8.8.8.8
+0x7f0a0519	wifi_dns2	DNS 2
+0x7f0a051a	wifi_dns2_hint	8.8.4.4
+0x7f0a051b	wifi_gateway	Gateway
+0x7f0a051c	wifi_gateway_hint	192.168.1.1
+0x7f0a051d	wifi_network_prefix_length	Network prefix length
+0x7f0a051e	wifi_network_prefix_length_hint	24
+0x7f0a051f	wifi_backup_password	Save AP	收藏热点
+0x7f0a0520	wifi_share_password	Share AP	分享热点
+0x7f0a0521	wifi_add_network	Add network	添加网络
+0x7f0a0522	wifi_query_key_title	Query Key now	一键查询万能钥匙
+0x7f0a0523	wifi_query_key_wifilist	Getting WiFi list...	正在获取热点列表...
+0x7f0a0524	dialog_manually_enable_mobile_connection_title	Need to enable mobile connection manually	需要手动打开数据网络
+0x7f0a0525	dialog_manually_enable_mobile_connection_message	Need to enable mobile connection manually	由于安卓系统限制，需要您在系统中手动打开数据网络，以便连接服务器
+0x7f0a0526	dialog_manually_enable_mobile_connection_message_by_failed	Enable data network failed, Need to enable mobile connection manually	打开数据网络失败，请在系统设置里面，手动打开数据网络
+0x7f0a0527	dialog_manually_enable_mobile_connection_title_by_auto_failed	Tips	温馨提示
+0x7f0a0528	dialog_manually_enable_mobile_connection_message_by_auto_failed	Enable data network failed, Need to enable mobile connection manually	查询免费热点需要消耗一点点数据流量，建议手动打开数据网络后，再尝试查询
+0x7f0a0529	dlg_whether_open_mobile_conn_title	GPRS needed	是否打开数据网络？
+0x7f0a052a	dlg_whether_open_mobile_conn_msg	You need to turn on GPRS to load wifi info from server. Would you like to do it immediately?	您需要先打开数据网络以查询云端的热点信息。是否立即打开?
+0x7f0a052b	btn_yes	Yes	是
+0x7f0a052c	btn_no	No	否
+0x7f0a052d	dialog_title_none_aps	Tips	温馨提示
+0x7f0a052e	dialog_msg_none_aps	Not found the hot spot nearby. Please try to move and find the available hotspot.	抱歉！您所在的位置暂时没有发现热点，请尝试移动位置，发现可用热点
+0x7f0a052f	dialog_btn_ok	Got it	我知道了
+0x7f0a0530	btn_cancel	Cancel	取消
+0x7f0a0531	btn_setting	Setting	设置
+0x7f0a0532	btn_ok	OK	确定
+0x7f0a0533	act_autoconnect_dlg_title	Connecting...	正在连接
+0x7f0a0534	act_wifilist_dlg_report_phishing_wifi_title	Report phishing WiFi	举报钓鱼WiFi
+0x7f0a0535	act_wifilist_dlg_report_phishing_wifi_body	Are you sure to report %1$s as phishing WiFi	你确认要举报 %1$s 作为钓鱼WiFi吗？
+0x7f0a0536	act_wifilist_dlg_report_phishing_confirm_btn	I'm sure	确认举报
+0x7f0a0537	act_wifilist_dlg_report_phishing_cancel_btn	Cancel	取消
+0x7f0a0538	act_wifilist_dlg_report_phishing_success_feedback_title	Report successfully!	举报成功!
+0x7f0a0539	act_wifilist_dlg_report_phishing_success_feedback_body	Thank you for your report!
+We will deal with it after confirmation	感谢您的举报!
+我们会在确认情况后作出处理!
+0x7f0a053a	act_wifilist_dlg_report_phishing_success_feedback_close_btn	Close	关闭
+0x7f0a053b	act_wifilist_toast_report_phishing_succeeded	commit succeeded	举报成功，我们会尽快处理
+0x7f0a053c	act_wifilist_toast_report_phishing_failed	commit failed	提交失败, 请稍后重试
+0x7f0a053d	act_wifi_cloud_sync_restore_error_when_wifi_disabled	Please enable WLAN to restore	系统WiFi已经关闭，不能进行还原
+0x7f0a053e	wifi_passwrod_dialog_desc	Please don't use Hotspot Sharing if you are not the owner of the hotspot or without owner's consent；all transmission and storage of the passwords are performed by 128 bits encryption.	非热点主人或未经热点主人同意请勿使用分享热点功能；密码将通过128位高度不对称加密算法传输，确保密码安全。
+0x7f0a053f	wifi_password_dialog_hint	Password	输入密码
+0x7f0a0540	wifi_password_dialog_hint_error_pwd	Password error	输入密码错误
+0x7f0a0541	conn_backup_tip_title	Once the hotspots are saved in the cloud, you can connect easily on any devices with the saved hotspots.	热点收藏到云端之后，不管手机丢失，还是更换其他手机，收藏的热点都能帮助您更便捷的连接到互联网
+0x7f0a0542	conn_backup_actionbar_title	Save Restore hotspots	收藏还原热点
+0x7f0a0543	conn_backup_backup_title	One Touch Save to the Cloud	一键收藏到云端
+0x7f0a0544	conn_backup_restore_title	One Touch Recovery from the Cloud	一键从云端恢复
+0x7f0a0545	conn_backup_restore_list_cloud_title	Hotspots on the Cloud	云端热点
+0x7f0a0546	conn_backup_restore_list_cloud_rect	Latest Save%s	最近一次收藏%s
+0x7f0a0547	conn_backup_restore_list_cloud_del	Delete	删除
+0x7f0a0548	conn_backup_restore_list_cloud_restore	Recover from the cloud	从云端恢复
+0x7f0a0549	conn_backup_restore_list_cloud_backup	Save to the cloud	收藏到云端
+0x7f0a054a	conn_backup_network_error	Network unavailable, please try again later.	网络连接异常，请稍候重试
+0x7f0a054b	conn_backup_backup_success_tip	Successfully save to the cloud	成功收藏到云端
+0x7f0a054c	conn_backup_restore_success_tip	Successfully recovered from the cloud	成功从云端恢复
+0x7f0a054d	conn_backup_restore_list_cloud_local	Local hotspots	本地热点
+0x7f0a054e	conn_backup_restore_list_cloud_cloud	Cloud hotspots	云端热点
+0x7f0a054f	conn_backup_overlay_title	Configuration existed, cover or not?	本地已有配置，是否覆盖
+0x7f0a0550	conn_backup_loading	Loading…	加载中…
+0x7f0a0551	conn_backup_no_ap_backup	No hotspots to save	暂无可收藏热点
+0x7f0a0552	conn_backup_no_ap_restore	No hotspots to recover	暂无可恢复热点
+0x7f0a0553	conn_backup_del_title	Delete hotspots	删除热点
+0x7f0a0554	conn_backup_del_desc	Are you sure to delete hotspot %s	你确定要删除热点%s
+0x7f0a0555	conn_backup_del_sure	OK	确定
+0x7f0a0556	conn_backup_del_cancle	Cancel	取消
+0x7f0a0557	plu_connect_init_net	Initialise network environment	初始化网络环境
+0x7f0a0558	plu_connect_start	Detect WiFi Plus Widget	检测本地动态连网插件
+0x7f0a0559	plu_connect_download	Install WiFi Plus Widget	加载动态连网插件
+0x7f0a055a	plu_connect_init_plu	Detect WiFi Plus Widget	加载本地动态连网插件
+0x7f0a055b	plu_connect_net	Try to establish a network connection	尝试建立网络连接
+0x7f0a055c	conn_plugin_no_sdk	Please check your SD card	请检查您的SD卡
+0x7f0a055d	plug_alert_friend	Reminder	友情提醒
+0x7f0a055e	plug_alert_value	Exclusive hotspots are for registered WiFi Master Key users. Please register to enjoy free connection!	专享热点只面向WiFi万能钥匙的注册用户提供服务，你需要注册成为我们的用户后才能免费畅连！
+0x7f0a055f	plug_alert_connect	Connect anywhere	随便连连
+0x7f0a0560	plug_alert_register	Register now	立即注册
+0x7f0a0561	plug_init_error	Connection timed out. Please try again!	网络连接超时，请稍后重试！
+0x7f0a0562	plug_init_error_know	Ok, I got it	我知道了
+0x7f0a0563	ap_need_web_auth	%1$s needs web authentication	%1$s需要网页认证
+0x7f0a0564	ap_auth_success	Authenticated	认证成功
+0x7f0a0565	share_prompt_title	Share %1$s	分享%1$s
+0x7f0a0566	share_prompt_msg	Share your WiFi hotspots with the community!	将自有WiFi热点分享出来，方便让更多人跟你一样体验到上网冲浪的乐趣。
+0x7f0a0567	share_prompt_dlg_mind	No thanks	有点介意
+0x7f0a0568	share_success_tip_1	Share	个性主张，感谢有你！
+0x7f0a0569	share_success_tip_2	Thank you for sharing！So manage your wifi right now!	感谢你的分享！
+使用钥匙主人管理此热点吧!
+0x7f0a056a	error_pwd
+0x7f0a056b	go_nearby	walk around to detect WiFi	附近无可用WiFi，请到处走走
+0x7f0a056c	check_loc_permission	If you can't load WiFi list, please ensure the you have allowed WiFi Master Key to access your location while using in your settings.	如果始终无法获取WiFi列表，请查看你的手机是否禁用了WiFi万能钥匙地理位置服务
+0x7f0a056d	frg_wifilist_wifi_scanning	Updating the WiFi list	正在更新热点列表
+0x7f0a056e	enter_unlock_more_msg	Sorry, no shared hotspot found. Try Hotspot?	抱歉，暂无用户分享过当前的可用热点信息。是否进入热点?
+(测试功能,需较长时间)
+0x7f0a056f	enter_unlock_more_title			Hotspot	热点
+0x7f0a0570	check_loc_permission_for_new_m	若是安卓6.0系统手机，请在设置里打开GPS后再尝试	若是安卓6.0系统手机，请在设置里打开GPS后再尝试
+0x7f0a0571	conn_backup_restore_failed_tip	由于系统原因，部分热点未恢复成功，请开关WiFi重试	由于系统原因，部分热点未恢复成功，请开关WiFi重试
+0x7f0a0572	global_dialog_title_remind	温馨提示	温馨提示
+0x7f0a0573	connect_ap_immeda	立即连接	立即连接
+0x7f0a0574	connect_notify_nearby_ap_tip	附近有免费可用的WiFi	附近有免费可用的WiFi
+0x7f0a0575	connect_notify_nearby_ap_can_connect	%s可连接	%s可连接
+0x7f0a0576	wifi_dialog_title_phoneap_tip	手机热点可能不稳定，并存在一定的安全风险，请小心使用	手机热点可能不稳定，并存在一定的安全风险，请小心使用
+0x7f0a0577	connect_open_mobile_network_dia_title	请手动打开数据网络	请手动打开数据网络
+0x7f0a0578	connect_open_mobile_network_dia_msg	获取免费WiFi
+要先打开数据网络开关	获取免费WiFi
+要先打开数据网络开关
+0x7f0a0579	connect_open_mobile_network_dia_ok	立即打开	立即打开
+0x7f0a057a	connect_open_mobile_network_dia_onekeyquery_title	一键查询万能钥匙	一键查询万能钥匙
+0x7f0a057b	connect_open_mobile_network_dia_onekeyquery_msg	已打开数据网络？立刻查询免费WiFi	已打开数据网络？立即查询免费WiFi
+0x7f0a057c	connect_open_mobile_network_dia_onekeyqyery_ok	立即查询	立即查询
+0x7f0a057d	connect_open_mobile_network_dia_onekeyqyery_cancel	暂不查询	暂不查询
+0x7f0a057e	connect_open_mobile_network_nosim_dia_msg	未安装sim卡	未安装sim卡
+0x7f0a057f	connect_open_mobile_network_nosim_dia_ok	我知道了	我知道了
+0x7f0a0580	download_pause_file	Paused	暂停
+0x7f0a0581	download_continu_file	Resume	继续
+0x7f0a0582	download_apk_file_notfound	File Not Found	文件不存在
+0x7f0a0583	download_apk_file_select_all	Future Generations	全选
+0x7f0a0584	download_delete_file	Delete download?	确定删除选中下载？
+0x7f0a0585	download_dialog_warm_prompt	Kindly Note	温馨提示
+0x7f0a0586	download_cancel_list	Cancel	取消
+0x7f0a0587	download_edit_list	Edit	编辑
+0x7f0a0588	download_complete_notification	Completed	下载完成
+0x7f0a0589	download_running_file	Downloading	正在下载
+0x7f0a058a	download_file_manager	Download Manager	下载管理
+0x7f0a058b	download_file_delete	Delete	删除
+0x7f0a058c	download_file_again	Retry	重试
+0x7f0a058d	download_waiting_file	Wait	等待
+0x7f0a058e	download_paused_file	Paused	暂停中
+0x7f0a058f	download_waited_file	Wait	等待中
+0x7f0a0590	download_alert_network	You are now in a data network, whether to download?	您现在处于移动数据网络下，是否继续下载？
+0x7f0a0591	download_newwork_failed	The network abnormal!	网络异常，无法下载
+0x7f0a0592	download_operation_frequent	Operation too frequent	请不要频繁操作
+0x7f0a0593	download_resume_download	The current switch has wifi network, resume %1$s downloads	当前已切换wifi网络，恢复 %1$s 个应用下载
+0x7f0a0594	download_filesize_unknown	The file size is unknown	文件大小未知
+0x7f0a0595	download_failed	Installation failed. Please try again.	下载失败，请稍后重试
+0x7f0a0596	download_failed_network	Network error. Please check network and try again.	网络异常，请稍后重试
+0x7f0a0597	download_failed_storage	Installation failed. Insufficient memory/ SD card error.	下载失败，存储空间不足或SD卡异常
+0x7f0a0598	dm_downloading	Downloading%1$sApplication	正在下载%1$s个应用
+0x7f0a0599	download_waiting	Waiting	预约下载（WiFi网络自动下载）
+0x7f0a059a	tips_autoconnect_failed_timeout	Connection timed out.	连接失败，超时
+0x7f0a059b	tips_autoconnect_failed_no_password	No hotspot info found.	未找到相关热点信息
+0x7f0a059c	tips_autoconnect_failed_error_password	Connection timeout may be due to changed WiFi password. Please try other hotspot with Blue Key icon.	连接超时。可能是由于WiFi设置已更换，请尝试连接其他带有蓝色钥匙热点
+0x7f0a059d	tips_autoconnect_failed_mac_limit	Connection timeout may be due to restricted network or unstable signal. Please try again later, or try another hotspot.	连接超时。可能由于热点受限或信号不稳，请稍后再试或连接其他热点
+0x7f0a059e	tips_autoconnect_failed_connection_limit	IP error. Please try again later or try another hotspot.	获取IP超时请稍后再试或连接其他热点
+0x7f0a059f	tips_autoconnect_failed_poor_signal	Connection failed, weak signal. Please walk around to get the strongest signal and connect again.	连接失败，WiFi信号较弱，请尝试移动位置获取较强的WiFi信号后，再尝试连接
+0x7f0a05a0	tips_autoconnect_failed_wifi_abnormal	Connection error. Please try again after refreshing WiFi settings.	连接异常，请尝试开关WiFi后重试
+0x7f0a05a1	tips_autoconnect_failed_canceled	Connection failed, interrupted process.	连接失败，过程被中断
+0x7f0a05a2	tips_autoconnect_failed_network_exception	无法连接到服务器，请检查数据网络开关，或稍后再试	无法连接到服务器，请检查数据网络开关，或稍后再试
+0x7f0a05a3	tips_autoconnect_dlg_title	Connecting	正在连接
+0x7f0a05a4	tips_autoconnect_dig_prepare	Preparing to connect, please wait...	正在进行准备工作，请稍候...
+0x7f0a05a5	tips_autoconnect_state_connect_ap	Connecting to %1$s...	正在连接%1$s...
+0x7f0a05a6	tips_autoconnect_state_connect_ap_with_percent	Connecting to %1$s(%2$s)...	正在连接%1$s(%2$s)...
+0x7f0a05a7	tips_autoconnect_dlg_trytogetkeyfromserver	Retrieving hotspot information, please wait...	正在获取热点信息，请稍候...
+0x7f0a05a8	tips_autoconnect_dlg_begintoconnwithmagic	Auto connecting now, please wait...	正在自动连接，请稍候...
+0x7f0a05a9	tips_autoconnect_open_mobile_network_fail	Network error.	打开数据网络失败
+0x7f0a05aa	tips_autoconnect_state_prepare	Initializing	正在初始化
+0x7f0a05ab	tips_autoconnect_state_prepare_finish	Initialised 	初始化完成
+0x7f0a05ac	tips_autoconnect_state_try_connect_with_local_pwd	Connecting locally	正在本地连接
+0x7f0a05ad	tips_autoconnect_state_try_connect_with_local_pwd_success	Local Connection Success	本地连接成功
+0x7f0a05ae	tips_autoconnect_state_try_connect_with_local_pwd_failed	Local Connection Failure.	本地连接失败
+0x7f0a05af	tips_autoconnect_state_get_net_pwd	Verifying hotspot	正在核实热点身份
+0x7f0a05b0	tips_autoconnect_state_get_net_pwd_success	Hotspot verified	核实热点身份成功
+0x7f0a05b1	tips_autoconnect_state_get_net_pwd_failed	Hotspot verification failed.	核实热点身份失败
+0x7f0a05b2	tips_autoconnect_state_try_connect_with_net_pwd	Connecting	正在连接网络
+0x7f0a05b3	tips_autoconnect_state_try_connect_with_net_pwd_success	Connected	网络连接成功
+0x7f0a05b4	tips_autoconnect_state_try_connect_with_net_pwd_failed	Connection failed.	网络连接失败
+0x7f0a05b5	tips_autoconnect_state_try_analyze_failed_reason	Analyzing connection failure 	分析连接失败原因
+0x7f0a05b6	btn_iknow	OK, I got it	我知道了
+0x7f0a05b7	btn_signal_check	Detect Signal	信号检测
+0x7f0a05b8	dialog_whether_open_mobile_conn_title	Turn on mobile data to connect? 	是否打开数据网络？
+0x7f0a05b9	dialog_whether_open_mobile_conn_msg	You need to turn on mobile data to retrieve hotspot information from the server. Turn on now? 	您需要先打开数据网络以查询云端热点信息。是否立即打开？
+0x7f0a05ba	tips_set_default_wifi	Yay connected! Set WiFi Master Key as your default WiFi Manager for easy WiFi connection? 	恭喜您连接成功，是否将WiFi万能钥匙设置为默认WiFi管理器，方便您更好的连接WiFi
+0x7f0a05bb	mobile_network_auto_enable_confirm	Next auto open	下次自动打开
+0x7f0a05bc	mobile_network_auto_enable_ing	Enable data network...	正在打开数据网络...
+0x7f0a05bd	mobile_network_dialog_title_auto_enable_failed	Tips	温馨提示
+0x7f0a05be	mobile_network_dialog_message_auto_enable_failed	Need to enable mobile connection manually	使用［钥匙连接］需要消耗一点点数据流量，请手动打开数据网络后，再尝试使用［钥匙连接］
+0x7f0a05bf	mobile_network_dialog_title_enable_failed	Need to enable mobile connection manually	需要手动打开数据网络
+0x7f0a05c0	mobile_network_dialog_message_enable_failed	Need to enable mobile connection manually	数据网络打开失败，请在系统设置里面，手动打开数据网络
+0x7f0a05c1	autoconnect_dialog_connect_with_wifimaster_shop	Connecting with WiFi Master Key…	正在钥匙连接…
+0x7f0a05c2	tips_autoconnect_dialog_connect_with_local_pwd	Connecting with local password	正在尝试本地连接
+0x7f0a05c3	tips_autoconnect_dialog_connect_get_net_pwd	Verifying WiFi hotspot...	正在核实热点身份
+0x7f0a05c4	tips_autoconnect_dialog_connect_get_net_pwd_success	Verified	核实成功
+0x7f0a05c5	tips_autoconnect_dialog_connect_try_connect	Attempting %1$s connection	正在尝试第%1$s次连接
+0x7f0a05c6	tips_autoconnect_dialog_time_one	1st	一
+0x7f0a05c7	tips_autoconnect_dialog_time_two	2nd	二
+0x7f0a05c8	tips_autoconnect_dialog_time_three	3rd	三
+0x7f0a05c9	tips_autoconnect_dialog_time_four	4th	四
+0x7f0a05ca	tips_autoconnect_dialog_time_five	5th	五
+0x7f0a05cb	tips_autoconnect_dialog_time_six	6th	六
+0x7f0a05cc	dialog_weather_bind_notice_permiss_title	是否开启通知使用权	是否开启通知使用权
+0x7f0a05cd	dialog_weather_bind_notice_permiss_desc	恭喜您连接成功，开启通知使用权可以为您连接更多热点	恭喜您连接成功，开启通知使用权可以为您连接更多热点
+0x7f0a05ce	connect_open_mobile_network_magic_dia_title	请手动打开数据网络	请手动打开数据网络
+0x7f0a05cf	connect_open_mobile_network_magic_dia_msg	进行钥匙连接
+要先打开数据网络开关	进行钥匙连接
+要先打开数据网络开关
+0x7f0a05d0	connect_open_mobile_network_magic_dia_ok	立即打开	立即打开
+0x7f0a05d1	connect_open_mobile_network_magic_dia_onekeyquery_title	钥匙连接	钥匙连接
+0x7f0a05d2	connect_open_mobile_network_magic_dia_onekeyquery_msg	已打开数据网络？立即连接免费WiFi	已打开数据网络？立即连接免费WiFi
+0x7f0a05d3	connect_open_mobile_network_magic_dia_onekeyqyery_ok	立即连接	立即连接
+0x7f0a05d4	connect_open_mobile_network_magic_dia_onekeyqyery_cancel	暂不连接	暂不连接
+0x7f0a05d5	launcher_tab_connect	Connect	连接
+0x7f0a05d6	launcher_tab_news	Discover	连尚·发现
+0x7f0a05d7	launcher_tab_settings	Mine	我的
+0x7f0a05d8	launcher_tab_settings_un	Mine	未登录
+0x7f0a05d9	launcher_quit_dialog_title	Kind reminder	温馨提示
+0x7f0a05da	launcher_quit_dialog_content	Confirm to quit?	确定要退出吗？
+0x7f0a05db	launcher_quit_dialog_content_notification	Confirm exit? You have opened the reminder. (you can set off in the settting)	是否确认退出，您已开启了退出时提醒。（您可以在设置栏中关闭）
+0x7f0a05dc	launcher_confirm_again	Don't show again	不再提示
+0x7f0a05dd	update_success
+0x7f0a05de	app_update_ver	Version：%1$s	版本：%1$s
+0x7f0a05df	act_setup_cb_auto_backup	Save Connected Hotspots	自动备份已连接热点
+0x7f0a05e0	act_setup_cb_auto_share	Share Connected Hotspots	自动分享已连接热点
+0x7f0a05e1	act_setup_btn_onekey	Experience now	立即体验
+0x7f0a05e2	act_setup_tv_i_agree	Experience now means that you agree with	立即体验代表已同意
+0x7f0a05e3	act_setup_tv_user_agreement	WiFi Master Key User Agreement	WiFi万能钥匙用户协议
+0x7f0a05e4	act_setup_option_auto_share	Auto sharing hotspots	自动分享热点
+0x7f0a05e5	act_setup_option_ask_me_first	Ask me before sharing	分享前询问我
+0x7f0a05e6	act_setup_sms_send_tip	It will send an SMS for registration, fees will be charged by operators.	系统将发送一条注册安全短信，所产生的费用将由运营商收取。
+0x7f0a05e7	launcher_agreement_file	agreement_en.html	agreement.html
+0x7f0a05e8	launcher_splash_skip	Skip %1$s	跳过 %1$s
+0x7f0a05e9	launcher_update_notify_ticker	WiFi Master Key releases a new version!	WiFi万能钥匙发布新版了！
+0x7f0a05ea	launcher_update_notify_title	Released a new version of WiFi Master Key!	WiFi万能钥匙新版发布!
+0x7f0a05eb	launcher_update_notify_content	Click upgrade to the new versionV%1$s	点击升级到新版本V%1$s
+0x7f0a05ec	sync_account_name	wifi.com
+0x7f0a05ed	sync_account_type	com.snda.wifilocating.sync
+0x7f0a05ee	sync_content_authority	com.snda.wifilocating.sync.provider
+0x7f0a05ef	guide_share_ap_new_title	Share hotspots	分享热点
+0x7f0a05f0	guide_share_ap_new_desc_selected	(Share hotspots to encrypted cloud sharing platform. Please ensure that you are the hotspot owner.)	(分享热点到云端加密互助平台，请确认您是热点主人)
+0x7f0a05f1	guide_share_ap_new_desc_unselected	(Do not share hotspots to encrypted cloud sharing platform.)	(不分享热点到云端加密互助平台)
+0x7f0a05f2	app_name_recommend	WiFi Master Key(Recommend)	WiFi万能钥匙（推荐）
+0x7f0a05f3	name_taxi	Taxi	打车
+0x7f0a05f4	name_movie	Cinema	电影票
+0x7f0a05f5	name_more	More	更多
+0x7f0a05f6	ssid_wifi_disable	WLAN is off	WiFi未开启
+0x7f0a05f7	ssid_wifi_disconnect	Internet not connected	未连接到网络
+0x7f0a05f8	ssid_wifi_need_login	Webpage Authentication Required	需网页认证后上网

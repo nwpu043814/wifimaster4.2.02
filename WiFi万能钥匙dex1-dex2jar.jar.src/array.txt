@@ -1,0 +1,57 @@
+0x7f0c0000	framework_weekday	Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday	星期一, 星期二, 星期三, 星期四, 星期五, 星期六, 星期日
+0x7f0c0001	aps_item_fail	重新发送, 删除
+0x7f0c0002	aps_complain_types	欺诈, 诱导分享, 恶意营销, 其他
+0x7f0c0003	photo_save	保存到手机, 发送给微信好友, 分享到朋友圈
+0x7f0c0004	dialog	发送给微信好友, 分享到朋友圈, 编辑标签, 删除
+0x7f0c0005	wifipay_bill_details_type	收款账户, 对方账户, 商品, 商户名称, 支付时间, 支付方式, 提现到, 交易单号, 备注, 商户单号, 当前状态, 商品内容, 优惠
+0x7f0c0006	app_check_setting	com.qihoo360.mobilesafe, com.tencent.qqpimsecure, cn.opda.a.phonoalbumshoushou	com.qihoo360.mobilesafe, com.tencent.qqpimsecure, cn.opda.a.phonoalbumshoushou
+0x7f0c0007	settings_permission_check_html	settings_permission_check_mi.html, settings_permission_check_huawei.html, settings_permission_check_samsumg.html, settings_permission_check_360.html, settings_permission_check_baidu.html
+0x7f0c0008	app_check_setting_detail	app_check_setting_detail_xiaomi, app_check_setting_detail_360, app_check_setting_detail_baidu	app_check_setting_detail_xiaomi, app_check_setting_detail_360, app_check_setting_detail_baidu
+0x7f0c0009	app_check_setting_detail_xiaomi	system settings, All settings, Application, WiFi Master Key, Authority management, location,set to allow	系统设置, 全部设置, 应用, WiFi万能钥匙, 权限管理, 定位，设置为允许
+0x7f0c000a	app_check_setting_detail_vivo	i-Manager, software management, Software rights management, WiFi Master Key, location,set to allow	i管家, 软件管理, 软件权限管理, WiFi万能钥匙, 定位手机，设置为允许
+0x7f0c000b	app_check_setting_detail_360	360 mobile guards, safety protection, Privacy behavior monitoring, Privacy rights management software, View by software, WiFi Master Key, Location information,set to allow	360手机卫士, 安全防护, 隐私行为监控, 软件隐私权限管理, 按软件查看, WiFi万能钥匙, 获取位置信息，设置为允许
+0x7f0c000c	app_check_setting_detail_baidu	Baidu mobile guards, Find out more, Super model, Privacy Rights Management, Privacy Permissions, All applications, WiFi Master Key, Get Location,set to allow	百度手机卫士, 发现更多, 超强模式, 隐私权限管理, 隐私权限, 所有应用, WiFi万能钥匙, 获取地理位置，设置为允许
+0x7f0c000d	app_check_setting_detail_tencent	Tencent Mobile Manager, software management, Software rights management, WiFi Master Key, Access to mobile phone location,set to allow	腾讯手机管家, 软件管理, 软件权限管理, WiFi万能钥匙, 获取手机位置，设置为允许
+0x7f0c000e	app_check_setting_detail_meizu	security center, Authority management, privacy, location, WiFi Master Key,set to allow	安全中心, 权限管理, 隐私, 定位, WiFi万能钥匙，设置为允许
+0x7f0c000f	app_check_setting_detail_zte	HeartyService, safety protection, Sensitive access monitoring, Software monitoring, WiFi Master Key, Get Location,set to allow	掌心管家, 安全保护, 敏感权限监控, 软件监控, WiFi万能钥匙, 获取定位信息，设置为允许
+0x7f0c0010	adone_wifilist	An apple a day keeps a doctor away, PowerSaving in WiFi Assistant is helpful	关注<a href=http://e.weibo.com/wifikey>WiFi万能钥匙新浪微博</a>, 用WiFi万能钥匙，无限你的无线
+0x7f0c0011	failed_item	未检测到ARP异常, 未检测到DNS异常, 未检测到SSL中间人攻击, WiFi未加密, WiFi加密方式：, 不能通达服务器
+0x7f0c0012	failed_item_vpn_open	万能安全隧道保护中, 当前处于ARP保护中, 当前处于DNS保护中, 当前处于SSL保护中, 当前WiFi未加密, 当前WiFi加密码方式：
+0x7f0c0013	wifi_security_level	Poor security, Safer, Security, Security
+0x7f0c0014	wifi_status	, Scanning…, Connecting…, Authenticating…, Obtaining IP address…, Connected, Suspended, Disconnecting…, Disconnected, Unsuccessful, Blocked, Temporarily avoiding poor connection, Check captive portal…	WiFi已打开, 正在扫描附近热点..., 正在连接..., 正在进行身份验证..., 正在获取 IP 地址..., WiFi已连接, WiFi暂停中..., 正在断开连接..., 已断开连接, 连接失败
+0x7f0c0015	wifi_status_with_ssid	, Scanning…, Connecting to %1$s…, Authenticating with %1$s…, Obtaining IP address from %1$s…, Connected to %1$s, Suspended, Disconnecting from %1$s…, Disconnected, Unsuccessful, Blocked, Temporarily avoiding poor connection, Check captive portal…	, 正在扫描附近热点..., 正在连接 %1$s..., 正在进行身份验证..., 正在从 %1$s 获取 IP 地址..., 已连接 %1$s, 暂停中, 正在从 %1$s 断开..., 已从 %1$s 断开, 连接失败
+0x7f0c0016	wifi_security	@ref/0x7f0a04e1, @ref/0x7f0a04e2, @ref/0x7f0a04e6, @ref/0x7f0a04e7	开放, WEP, WPA/WPA2 PSK, 802.1x EAP
+0x7f0c0017	wifi_eap_method	PEAP, TLS, TTLS, PWD	PEAP, TLS, TTLS, PWD
+0x7f0c0018	wifi_signal	Poor, Fair, Good, Excellent	弱, 一般, 较强, 强
+0x7f0c0019	wifi_peap_phase2_entries	None, MSCHAPV2, GTC
+0x7f0c001a	wifi_phase2_entries	None, PAP, MSCHAP, MSCHAPV2, GTC	无, PAP, MSCHAP, MSCHAPV2, GTC
+0x7f0c001b	wifi_ip_settings	DHCP, Static
+0x7f0c001c	wifi_proxy_settings	None, Manual
+0x7f0c001d	traffic_sort_item	By Alphabetic order, By Download traffic, By Upload traffic	按名称排序, 按下载排序, 按上传排序
+0x7f0c001e	traffic_apptype_item	All applications, Pre-installed applications, User-installed applications	全部应用, 系统预装应用, 用户安装应用
+0x7f0c001f	wifi_sec_state_name	Low, Normal, High, High	低, 中, 高, 高
+0x7f0c0020	wifi_sec_state_color	#c11507, #f88a00, #069238, #069238	#c11507, #f88a00, #069238, #069238
+0x7f0c0021	wifi_sec_state_detail	You are using open network, Security level: WEP, Security level: WPA/WPA2 PSK, Security level: WPA/WPA2 PSK	您当前使用的是开放网络, 热点加密方式：WEP, 热点加密方式：WPA/WPA2 PSK, 热点加密方式：WPA/WPA2 PSK
+0x7f0c0022	wifi_ap_security	@ref/0x7f0a04e1, @ref/0x7f0a04e3, @ref/0x7f0a04e4	@ref/0x7f0a04e1, @ref/0x7f0a04e3, @ref/0x7f0a04e4
+0x7f0c0023	android_maufacturer	Xiaomi, xiaolajiao, OPPO, Meizu, Hisense
+0x7f0c0024	wifi_status_on_notification_icon		, 正在扫描附近热点..., 正在连接到 %1$s..., 正在进行身份验证..., 正在从 %1$s 获取 IP 地址..., 已连接 %1$s, 已暂停, 正在从 %1$s 断开..., 已断开, 失败
+0x7f0c0025	wifi_signal_on_notification_icon		信号: 弱, 信号: 一般, 信号: 较强, 信号: 强
+0x7f0c0026	wifi_eap_entries		PEAP, TLS, TTLS, PWD
+0x7f0c0027	pref_act_power_close_wifi_per_blackscreen_title		禁用, 5分钟, 10分钟, 30分钟
+0x7f0c0028	pref_act_power_close_wifi_per_blackscreen_summary		已禁用, 5分钟, 10分钟, 30分钟
+0x7f0c0029	pref_act_power_close_wifi_per_blackscreen_value		0, 300000, 600000, 1800000
+0x7f0c002a	pref_checkbox_value		已禁用, 已启用
+0x7f0c002b	boolean_value		是, 否
+0x7f0c002c	pref_act_power_power_save_by_one_key_summary		已激活，其他选项不可调整, 已停止，可以调整其他选项
+0x7f0c002d	pref_act_power_power_save_in_charge_key_summary		是，充电时关闭WiFi项也起作用, 否，充电时忽略关闭WiFi选项
+0x7f0c002e	pref_act_power_saving_strategy_on_notification		省电策略:未开启, 省电策略:省心, 省电策略:极限, 省电策略:自定义
+0x7f0c002f	pref_act_power_saving_strategy_title		不开启, 省心省电, 极限省电, 自定义规则
+0x7f0c0030	pref_act_power_saving_strategy_sumary		未开启（不自动关闭WiFi）, 省心省电（深夜自动关闭WiFi）, 极限省电（合理自动关闭WiFi）, 自定义规则
+0x7f0c0031	pref_act_power_saving_strategy_value		never, bizman, user, customize
+0x7f0c0032	hours_of_day_title		0:00, 1:00, 2:00, 3:00, 4:00, 5:00, 6:00, 7:00, 8:00, 9:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00, 21:00, 22:00, 23:00
+0x7f0c0033	hours_of_day_value		00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+0x7f0c0034	pre_time_unit		秒前, 分钟前, 小时前
+0x7f0c0035	act_top_n_trying_count		10, 20, 30, 40, 50
+0x7f0c0036	map_apinfo_dialog_content		热点名称：%1$s, 安全性：%1$s, 信号强度：%1$s, 信号频率：%1$sMHz, 连接速度：%1$sMbps, IP地址：%1$s
+0x7f0c0037	groups		可解锁, 未加密, 待解锁
+0x7f0c0038	app_update_intro_array	Upgraded network provider hotspots nationwide, stay connected everywhere., Check your network security with our Check Security function., Other optimizations
