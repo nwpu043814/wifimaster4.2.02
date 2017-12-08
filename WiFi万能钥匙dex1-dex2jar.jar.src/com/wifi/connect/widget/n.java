@@ -51,7 +51,7 @@ public final class n
   static
   {
     int[] arrayOfInt1 = new int[0];
-    int[] arrayOfInt2 = { 1, R.drawable.action_magic_conn, R.string.action_magic_conn };
+    int[] arrayOfInt2 = { 1, R.drawable.action_magic_conn, R.string.action_magic_conn };//connect entry.
     int[] arrayOfInt3 = { 2, R.drawable.action_connect, R.string.action_connect };
     int i8 = R.drawable.action_input_password;
     int i12 = R.string.action_input_password;

@@ -1,0 +1,33 @@
+{
+	"wlan.ct10000.com/mobile/style/ish_fx/index.jsp": {
+		"des": "i-shanghai",
+		"phoNumInput": "UserName",
+		"authzCodeInput": "PassWord",
+		"getAuthzCodeButton": "getPsd",
+		"loginButton":  "loginbutton2"
+	},
+	
+	"wlan.ct10000.com/mobile/style/ZS14004_ZS14004/index.jsp": {
+		"des": "i-shangwang",
+		"phoNumInput": "UserName",
+		"authzCodeInput": "PassWord",
+		"getAuthzCodeButton": "getPWInner",
+		"loginButton":  "loginbutton"
+	},
+	
+	"record.mdwifi.com/auth/sms.html": {
+		"des": "modou-sms",
+		"phoNumInput": "mobile",
+		"authzCodeInput": "verifycode",
+		"getAuthzCodeButton": "send-sms",
+		"loginButton":  "verify-btn"
+	},
+	
+	"record.mdwifi.com/none/welcome.html": {
+		"des": "modou-oneclick",
+		"oneClickButton": "counter",
+		"oneClickDelay":  3500
+	}
+	
+	
+}
