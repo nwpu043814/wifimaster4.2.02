@@ -148,7 +148,7 @@ public final class c
             for (;;)
             {
               if (k < ((b.a)localObject).l().size())
-              {
+              {//VIM
                 JSONObject localJSONObject = new JSONObject(((b.a.b)((b.a)localObject).l().get(k)).l());
                 locala = new com.wifi.connect.plugin.magickey.b.a();
                 locala.a = localJSONObject.getString("pwdId");
@@ -158,7 +158,7 @@ public final class c
                   if (localJSONObject.has("ccId")) {
                     locala.d = localJSONObject.getString("ccId");
                   }
-                  locala.b = a(WkSecretKeyNative.a(localJSONObject.getString("pwd"), paramString));
+                  locala.b = a(WkSecretKeyNative.a(localJSONObject.getString("pwd"), paramString));//decrypt
                   locala.b = Uri.decode(locala.b);
                   locala.e = localJSONObject.optInt("keyStatus");
                   locala.f = localJSONObject.optInt("authType");

@@ -90,7 +90,7 @@ public final class b
       ((com.wifi.backup.c.a.a)localObject).e(localWkAccessPoint.b);
       ((com.wifi.backup.c.a.a)localObject).d(localWkAccessPoint.a);
       ((com.wifi.backup.c.a.a)localObject).a(true);
-      ((com.wifi.backup.c.a.a)localObject).g(WkSecretKeyNative.a(str));
+      ((com.wifi.backup.c.a.a)localObject).g(WkSecretKeyNative.a(str));//decrypt
       ((com.wifi.backup.c.a.a)localObject).c("internet");
       ((com.wifi.backup.c.a.a)localObject).f(String.valueOf(localWkAccessPoint.c));
       this.b.add(localObject);

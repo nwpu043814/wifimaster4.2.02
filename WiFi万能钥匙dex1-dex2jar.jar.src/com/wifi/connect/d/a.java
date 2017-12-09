@@ -56,7 +56,7 @@ public final class a
       }
       localObject = u.a(localWifiConfiguration.preSharedKey);
       label123:
-      locala.d(WkSecretKeyNative.a((String)localObject));
+      locala.d(WkSecretKeyNative.a((String)localObject));//decrypt
       locala.e(String.valueOf(i));
       locala.f("false");
       localObject = ((a.a)locala.c()).b();

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\code\wifimaster4.2.02\app\app.iml" filepath="C:\code\wifimaster4.2.02\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/wifimaster4.2.02.iml" filepath="$PROJECT_DIR$/wifimaster4.2.02.iml" />
+      <module fileurl="file://C:\code\wifimaster4.2.02\wifimaster4.2.02.iml" filepath="C:\code\wifimaster4.2.02\wifimaster4.2.02.iml" />
     </modules>
   </component>
 </project>

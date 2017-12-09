@@ -30,7 +30,7 @@ public final class g
     for (int i = 0; i < j; i++) {
       localStringBuffer.append((String)paramMap.get(arrayOfObject[i]));
     }
-    return WkSecretKeyNative.a(localStringBuffer.toString(), paramString, c.getAppContext());
+    return WkSecretKeyNative.a(localStringBuffer.toString(), paramString, c.getAppContext());//decrypt
   }
 }
 

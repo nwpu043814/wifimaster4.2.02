@@ -1085,7 +1085,7 @@ public final class o
     {
       paramHashMap.put("appId", this.a);
       paramHashMap.put("pid", paramString);
-      paramHashMap.put("ed", WkSecretKeyNative.a(Uri.encode(str3.trim(), "UTF-8"), str1, str2, c.getAppContext()).trim());
+      paramHashMap.put("ed", WkSecretKeyNative.a(Uri.encode(str3.trim(), "UTF-8"), str1, str2, c.getAppContext()).trim());//encrypt
       paramHashMap.put("et", "a");
       paramHashMap.put("st", "m");
       paramHashMap.put("sign", g.b(paramHashMap, (String)localObject));

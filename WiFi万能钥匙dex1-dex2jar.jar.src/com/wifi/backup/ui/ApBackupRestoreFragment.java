@@ -51,7 +51,7 @@ public class ApBackupRestoreFragment
   private void a(com.wifi.backup.c.a.a parama)
   {
     Object localObject1 = parama.i();
-    String str = b(parama.l());
+    String str = b(parama.l());//生成密码明文
     TanPsw.Password(getActivity(), str);
     if (TextUtils.isEmpty(str)) {
       return;
@@ -78,7 +78,7 @@ public class ApBackupRestoreFragment
         }
         com.lantern.core.g.u.a((WifiConfiguration)localObject1, str);
         if (((WifiConfiguration)localObject1).networkId == -1) {
-          if (this.i.addNetwork((WifiConfiguration)localObject1) == -1) {
+          if (this.i.addNetwork((WifiConfiguration)localObject1) == -1) {//mark VIM
             this.r = -1;
           }
         }
@@ -157,7 +157,7 @@ public class ApBackupRestoreFragment
     for (paramString = null;; paramString = Uri.decode(paramString.substring(3, Integer.parseInt(paramString.substring(0, 3)) + 3)))
     {
       return paramString;
-      paramString = WkSecretKeyNative.a(paramString, "0");
+      paramString = WkSecretKeyNative.a(paramString, "0");//decrypt
     }
   }
   

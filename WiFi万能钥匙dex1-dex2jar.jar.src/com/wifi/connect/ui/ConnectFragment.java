@@ -187,7 +187,8 @@ public class ConnectFragment
       }
     }
   }
-  
+
+
   private void a(AccessPoint paramAccessPoint, int paramInt, boolean paramBoolean1, boolean paramBoolean2, boolean paramBoolean3, boolean paramBoolean4, boolean paramBoolean5, boolean paramBoolean6)
   {
     WkAccessPoint localWkAccessPoint = new WkAccessPoint(paramAccessPoint);

@@ -8,7 +8,7 @@ public final class a
   private String a;
   private String b = "";
   private String c;
-  private String d;
+  private String d;//pwd密文
   private String e;
   private boolean f;
   private String g;
