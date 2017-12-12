@@ -62,7 +62,7 @@ public final class a
       localObject = ((a.a)locala.c()).b();
       com.lantern.core.c.getServer();
       localObject = o.a("00302006", (byte[])localObject);
-      localObject = e.a(com.lantern.core.c.getServer().v(), (byte[])localObject);
+      localObject = e.a(com.lantern.core.c.getServer().v(), (byte[])localObject);//apurl
       if ((localObject != null) && (localObject.length != 0)) {
         break label400;
       }

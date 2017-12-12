@@ -43,7 +43,7 @@ public final class a
       return;
     }
     com.lantern.core.c.getServer().f("00302003");
-    String str = com.lantern.core.c.getServer().v();
+    String str = com.lantern.core.c.getServer().v();//apurl
     a.a.a locala = a.a.l();
     if (paramb.b != null)
     {

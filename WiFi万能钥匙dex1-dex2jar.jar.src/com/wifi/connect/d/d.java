@@ -52,7 +52,7 @@ public final class d
       return i;
       this.d = "10010";
       break;
-      Object localObject = com.lantern.core.c.getServer().v();
+      Object localObject = com.lantern.core.c.getServer().v();//apurl
       byte[] arrayOfByte = a(com.bluefay.d.a.getAppContext(), this.a);
       com.lantern.core.c.getServer();
       arrayOfByte = o.a("00302001", arrayOfByte);

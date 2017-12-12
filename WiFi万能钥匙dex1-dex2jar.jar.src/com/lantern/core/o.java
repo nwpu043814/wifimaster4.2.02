@@ -27,13 +27,13 @@ import org.json.JSONObject;
 public final class o
 {
   protected String a;
-  protected String b;
+  protected String b;//imei
   protected String c;
   protected String d;
-  protected String e;
-  protected String f = "";
-  protected String g;
-  protected Context h;
+  protected String e;//channel
+  protected String f = "";//channel
+  protected String g;//mac
+  protected Context h;//context
   protected String i;
   protected String j;
   protected String k;

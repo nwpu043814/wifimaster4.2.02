@@ -37,7 +37,7 @@ public final class g
         i = j;
         if (this.a != null)
         {
-          Object localObject1 = com.lantern.core.c.getServer().v();
+          Object localObject1 = com.lantern.core.c.getServer().v();//apurl
           Object localObject2 = this.a;
           a.a.a locala1 = a.a.l();
           locala1.a(((WkAccessPoint)localObject2).b());

@@ -66,7 +66,7 @@ public final class c
       return k;
       this.g = "initDev Error";
       break;
-      String str = com.lantern.core.c.getServer().v();
+      String str = com.lantern.core.c.getServer().v();//apurl
       com.bluefay.d.a.getAppContext();
       Object localObject = a(this.b, this.c, this.d, this.h, this.i);
       com.lantern.core.c.getServer();

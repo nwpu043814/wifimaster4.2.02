@@ -47,7 +47,7 @@ public final class g
       }
       com.bluefay.b.h.a("init dev failed");
     }
-    String str = com.lantern.core.c.getServer().v();
+    String str = com.lantern.core.c.getServer().v();//apurl
     a.a.a locala = a.a.l();
     if (paramg.b != null)
     {

@@ -63,7 +63,7 @@ public final class i
       for (;;)
       {
         return j;
-        localObject2 = com.lantern.core.c.getServer().v();
+        localObject2 = com.lantern.core.c.getServer().v();//apurl
         Context localContext = com.bluefay.d.a.getAppContext();
         Object localObject4 = this.d;
         String str2 = this.e;

@@ -38,7 +38,7 @@ public final class a
         i = 0;
         continue;
       }
-      Object localObject = com.lantern.core.c.getServer().v();
+      Object localObject = com.lantern.core.c.getServer().v();//apurl
       com.lantern.core.c.getServer();
       localObject = e.a((String)localObject, o.a("00302008", new byte[0]));
       if ((localObject == null) || (localObject.length == 0))
